@@ -1,0 +1,344 @@
+[
+  {
+    "id": "astronomy",
+    "name": "Astronomy",
+    "topics": [
+      "Star formation",
+      "Exoplanets",
+      "Cosmology"
+    ],
+    "facultyIds": [
+      "offner",
+      "zimmerman"
+    ],
+    "skills": [
+      "Python",
+      "Calculus",
+      "Reading spectra"
+    ],
+    "streamIds": [
+      "white-dwarf-stars",
+      "quantum-computing"
+    ],
+    "area": "Physics & Space",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research/research-major",
+    "lastVerified": "2026-09-19",
+    "note": "An editorial starting point. Follow the linked UT sources to explore this field."
+  },
+  {
+    "id": "biochemistry",
+    "name": "Biochemistry",
+    "topics": [
+      "Protein networks",
+      "Molecular mechanisms",
+      "RNA"
+    ],
+    "facultyIds": [
+      "marcotte",
+      "lambowitz",
+      "krische"
+    ],
+    "skills": [
+      "Chemical reasoning",
+      "Data organization",
+      "Lab notebooks"
+    ],
+    "streamIds": [
+      "aptamer",
+      "biopowerhouses",
+      "biomanufacturing"
+    ],
+    "area": "Life & Health",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research/research-major",
+    "lastVerified": "2026-09-19",
+    "note": "An editorial starting point. Follow the linked UT sources to explore this field."
+  },
+  {
+    "id": "biology",
+    "name": "Biology",
+    "topics": [
+      "Evolution",
+      "Microbiomes",
+      "Cell biology"
+    ],
+    "facultyIds": [
+      "moran",
+      "marcotte",
+      "jha"
+    ],
+    "skills": [
+      "Scientific reading",
+      "Statistics",
+      "Careful observation"
+    ],
+    "streamIds": [
+      "biodiversity-discovery",
+      "big-data-biology",
+      "x-plants"
+    ],
+    "area": "Life & Health",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research/research-major",
+    "lastVerified": "2026-09-19",
+    "note": "An editorial starting point. Follow the linked UT sources to explore this field."
+  },
+  {
+    "id": "chemistry",
+    "name": "Chemistry",
+    "topics": [
+      "Catalysis",
+      "Molecular synthesis",
+      "Materials"
+    ],
+    "facultyIds": [
+      "krische"
+    ],
+    "skills": [
+      "Lab safety",
+      "Molecular structure",
+      "Quantitative analysis"
+    ],
+    "streamIds": [
+      "computational-materials",
+      "sustainable-fashion-materials"
+    ],
+    "area": "Chemistry & Materials",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research/research-major",
+    "lastVerified": "2026-09-19",
+    "note": "An editorial starting point. Follow the linked UT sources to explore this field."
+  },
+  {
+    "id": "computer-science",
+    "name": "Computer Science",
+    "topics": [
+      "Robotics",
+      "Machine learning",
+      "Scientific computing"
+    ],
+    "facultyIds": [
+      "stone",
+      "farahi"
+    ],
+    "skills": [
+      "Python",
+      "Algorithms",
+      "Version control"
+    ],
+    "streamIds": [
+      "autonomous-robots",
+      "robot-learning",
+      "quantum-computing"
+    ],
+    "area": "Data & Computing",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research/research-major",
+    "lastVerified": "2026-09-19",
+    "note": "An editorial starting point. Follow the linked UT sources to explore this field."
+  },
+  {
+    "id": "environmental-science",
+    "name": "Environmental Science",
+    "topics": [
+      "Conservation",
+      "Coastal systems",
+      "Land-use change"
+    ],
+    "facultyIds": [
+      "jha",
+      "dunton",
+      "moran"
+    ],
+    "skills": [
+      "Field notes",
+      "Statistics",
+      "Mapping data"
+    ],
+    "streamIds": [
+      "urban-ecosystems",
+      "biodiversity-discovery"
+    ],
+    "area": "Earth & Environment",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research/research-major",
+    "lastVerified": "2026-09-19",
+    "note": "An editorial starting point. Follow the linked UT sources to explore this field."
+  },
+  {
+    "id": "mathematics",
+    "name": "Mathematics",
+    "topics": [
+      "Optimization",
+      "Probability",
+      "Scientific models"
+    ],
+    "facultyIds": [
+      "ward",
+      "farahi",
+      "zimmerman"
+    ],
+    "skills": [
+      "Proof writing",
+      "Linear algebra",
+      "Programming"
+    ],
+    "streamIds": [
+      "quantum-computing",
+      "computational-materials"
+    ],
+    "area": "Data & Computing",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research/research-major",
+    "lastVerified": "2026-09-19",
+    "note": "An editorial starting point. Follow the linked UT sources to explore this field."
+  },
+  {
+    "id": "neuroscience",
+    "name": "Neuroscience",
+    "topics": [
+      "Learning",
+      "Memory",
+      "Brain development"
+    ],
+    "facultyIds": [
+      "preston"
+    ],
+    "skills": [
+      "Statistics",
+      "Experimental design",
+      "Python"
+    ],
+    "streamIds": [
+      "behavioral-neuroscience"
+    ],
+    "area": "Life & Health",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research/research-major",
+    "lastVerified": "2026-09-19",
+    "note": "An editorial starting point. Follow the linked UT sources to explore this field."
+  },
+  {
+    "id": "physics",
+    "name": "Physics",
+    "topics": [
+      "Gravitation",
+      "Quantum systems",
+      "Cosmology"
+    ],
+    "facultyIds": [
+      "zimmerman",
+      "offner"
+    ],
+    "skills": [
+      "Calculus",
+      "Differential equations",
+      "Simulation"
+    ],
+    "streamIds": [
+      "quantum-computing",
+      "white-dwarf-stars"
+    ],
+    "area": "Physics & Space",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research/research-major",
+    "lastVerified": "2026-09-19",
+    "note": "An editorial starting point. Follow the linked UT sources to explore this field."
+  },
+  {
+    "id": "public-health",
+    "name": "Public Health",
+    "topics": [
+      "Epidemiology",
+      "Nutrition",
+      "Health data"
+    ],
+    "facultyIds": [
+      "meyers",
+      "davis"
+    ],
+    "skills": [
+      "Statistics",
+      "Research ethics",
+      "Scientific communication"
+    ],
+    "streamIds": [
+      "big-data-biology",
+      "diy-diagnostics"
+    ],
+    "area": "Life & Health",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research/research-major",
+    "lastVerified": "2026-09-19",
+    "note": "An editorial starting point. Follow the linked UT sources to explore this field."
+  },
+  {
+    "id": "statistics-data-science",
+    "name": "Statistics & Data Science",
+    "topics": [
+      "Uncertainty",
+      "Machine learning",
+      "Outbreak forecasting"
+    ],
+    "facultyIds": [
+      "farahi",
+      "ward",
+      "meyers"
+    ],
+    "skills": [
+      "R or Python",
+      "Probability",
+      "Data visualization"
+    ],
+    "streamIds": [
+      "big-data-biology",
+      "robot-learning"
+    ],
+    "area": "Data & Computing",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research/research-major",
+    "lastVerified": "2026-09-19",
+    "note": "An editorial starting point. Follow the linked UT sources to explore this field."
+  },
+  {
+    "id": "nutritional-sciences",
+    "name": "Nutritional Sciences",
+    "topics": [
+      "Food environments",
+      "Metabolic health",
+      "Community interventions"
+    ],
+    "facultyIds": [
+      "davis"
+    ],
+    "skills": [
+      "Study design",
+      "Data analysis",
+      "Community communication"
+    ],
+    "streamIds": [
+      "biopowerhouses",
+      "big-data-biology"
+    ],
+    "area": "Life & Health",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research/research-major",
+    "lastVerified": "2026-09-19",
+    "note": "An editorial starting point. Follow the linked UT sources to explore this field."
+  },
+  {
+    "id": "human-development-family-sciences",
+    "name": "Human Development & Family Sciences",
+    "topics": [
+      "Child development",
+      "Family relationships",
+      "Culture and health"
+    ],
+    "facultyIds": [
+      "kim",
+      "davis",
+      "preston"
+    ],
+    "skills": [
+      "Quantitative methods",
+      "Research ethics",
+      "Literature review"
+    ],
+    "streamIds": [
+      "behavioral-neuroscience"
+    ],
+    "area": "Life & Health",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research/research-major",
+    "lastVerified": "2026-09-19",
+    "note": "An editorial starting point. Follow the linked UT sources to explore this field."
+  }
+]

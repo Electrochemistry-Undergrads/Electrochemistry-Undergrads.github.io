@@ -1,0 +1,130 @@
+{
+  "status": "passed",
+  "checkedAt": "2026-09-23T23:11:24.755759+00:00",
+  "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+  "sourceRetrievedAt": "2026-09-23T01:50:27.867416+00:00",
+  "catalogScope": "The following faculty list represents those appointed in the 2026 spring semester.",
+  "sourceSha256": "e084528a6b7c78ba4c9a82dad00219d0827ed5fc09b3919a5cae4eb9b5a3510a",
+  "officialCatalogCount": 689,
+  "databaseFacultyCount": 689,
+  "uniqueFacultyIds": 689,
+  "missingRecords": [],
+  "extraRecords": [],
+  "duplicateNames": [],
+  "possibleDuplicateNames": [],
+  "missingRequiredAppointmentFields": 0,
+  "facultyWithCatalogSources": 689,
+  "departmentCounts": [
+    {
+      "department": "Astronomy",
+      "officialCatalogCount": 24,
+      "databaseCount": 24
+    },
+    {
+      "department": "Biology Instruction Office",
+      "officialCatalogCount": 56,
+      "databaseCount": 56
+    },
+    {
+      "department": "Chemistry",
+      "officialCatalogCount": 42,
+      "databaseCount": 42
+    },
+    {
+      "department": "College of Natural Sciences",
+      "officialCatalogCount": 57,
+      "databaseCount": 57
+    },
+    {
+      "department": "Computer Science",
+      "officialCatalogCount": 97,
+      "databaseCount": 97
+    },
+    {
+      "department": "Human Development and Family Sciences",
+      "officialCatalogCount": 30,
+      "databaseCount": 30
+    },
+    {
+      "department": "Integrative Biology",
+      "officialCatalogCount": 40,
+      "databaseCount": 40
+    },
+    {
+      "department": "Marine Science",
+      "officialCatalogCount": 20,
+      "databaseCount": 20
+    },
+    {
+      "department": "Mathematics",
+      "officialCatalogCount": 98,
+      "databaseCount": 98
+    },
+    {
+      "department": "Molecular Biosciences",
+      "officialCatalogCount": 62,
+      "databaseCount": 62
+    },
+    {
+      "department": "Neuroscience",
+      "officialCatalogCount": 31,
+      "databaseCount": 31
+    },
+    {
+      "department": "Nutritional Sciences",
+      "officialCatalogCount": 26,
+      "databaseCount": 26
+    },
+    {
+      "department": "Physics",
+      "officialCatalogCount": 72,
+      "databaseCount": 72
+    },
+    {
+      "department": "School of Human Ecology",
+      "officialCatalogCount": 11,
+      "databaseCount": 11
+    },
+    {
+      "department": "Statistics and Data Sciences",
+      "officialCatalogCount": 39,
+      "databaseCount": 39
+    },
+    {
+      "department": "Textiles and Apparel",
+      "officialCatalogCount": 10,
+      "databaseCount": 10
+    },
+    {
+      "department": "UTeach-Natural Sciences",
+      "officialCatalogCount": 10,
+      "databaseCount": 10
+    }
+  ],
+  "databaseIntegrity": "ok",
+  "foreignKeyErrors": [],
+  "indexedQueryPlans": {
+    "nameLookup": [
+      "SEARCH faculty USING INDEX faculty_name_idx (official_name=?)"
+    ],
+    "departmentBrowse": [
+      "SEARCH faculty_departments USING COVERING INDEX faculty_department_membership_idx (department_id=?)"
+    ]
+  },
+  "researchProfilesDisplayed": 391,
+  "facultyWithoutConnectedUTProfile": 147,
+  "facultyWithoutConnectedResearch": 298,
+  "checks": [
+    "Exact name/title/affiliation/appointment/education match",
+    "Catalog order and one-to-one identity match",
+    "Canonical JSON matches database",
+    "Every faculty has one catalog source and an enrichment row",
+    "All joint appointments and department counts match",
+    "SQLite integrity and foreign keys",
+    "Indexed name and department lookups",
+    "Duplicate names retained and flagged; never merged"
+  ],
+  "cmsRoundTrip": "passed",
+  "databaseSha256": "24742c7ea54f139e749752559638abd9467497459ced02c8e6f23dcd655c5b63",
+  "databaseBytes": 3956736
+}

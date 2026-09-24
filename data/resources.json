@@ -1,0 +1,56 @@
+[
+  {
+    "id": "our",
+    "title": "Office of Undergraduate Research",
+    "summary": "Campus-wide resources for undergraduate researchers.",
+    "url": "https://undergraduates.utexas.edu/academics/undergraduate-research/research-resources/students-0",
+    "sourceUrl": "https://undergraduates.utexas.edu/academics/undergraduate-research/research-resources/students-0",
+    "lastVerified": "2026-09-19",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "exl",
+    "title": "CNS Experiential Learning",
+    "summary": "Research, advising, and ways to get involved.",
+    "url": "https://exl.cns.utexas.edu/do-research",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research",
+    "lastVerified": "2026-09-19",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "fri",
+    "title": "Freshman Research Initiative",
+    "summary": "Explore faculty-led research streams in science, math, and technology.",
+    "url": "https://fri.cns.utexas.edu/",
+    "sourceUrl": "https://fri.cns.utexas.edu/",
+    "lastVerified": "2026-09-19",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "majors",
+    "title": "CNS Research by Major",
+    "summary": "Departmental guides and research resources across majors.",
+    "url": "https://exl.cns.utexas.edu/do-research/research-major",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research/research-major",
+    "lastVerified": "2026-09-19",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "forum",
+    "title": "Undergraduate Research Forum",
+    "summary": "Learn about the Technology & Science Undergraduate Research Forum.",
+    "url": "https://exl.cns.utexas.edu/events/series/undergraduate-research-forum",
+    "sourceUrl": "https://exl.cns.utexas.edu/events/series/undergraduate-research-forum",
+    "lastVerified": "2026-09-19",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "outreach",
+    "title": "How to reach out to professors",
+    "summary": "Official CNS guidance on thoughtful faculty outreach.",
+    "url": "https://exl.cns.utexas.edu/do-research/find-research-lab/how-reach-out-professors",
+    "sourceUrl": "https://exl.cns.utexas.edu/do-research/find-research-lab/how-reach-out-professors",
+    "lastVerified": "2026-09-19",
+    "verificationStatus": "verified"
+  }
+]

@@ -1,0 +1,2306 @@
+{
+  "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+  "lastVerified": "2026-09-23",
+  "catalogScope": "The following faculty list represents those appointed in the 2026 spring semester.",
+  "officialCatalogCount": 689,
+  "directoryCount": 391,
+  "uniqueRecordCount": 689,
+  "missingCatalogRecords": [],
+  "extraDirectoryRecords": [],
+  "duplicateNames": [],
+  "possibleProfileMatches": [],
+  "departmentCounts": {
+    "Astronomy": 24,
+    "Biology Instruction Office": 56,
+    "Chemistry": 42,
+    "College of Natural Sciences": 57,
+    "Computer Science": 97,
+    "Human Development and Family Sciences": 30,
+    "Integrative Biology": 40,
+    "Marine Science": 20,
+    "Mathematics": 98,
+    "Molecular Biosciences": 62,
+    "Neuroscience": 31,
+    "Nutritional Sciences": 26,
+    "Physics": 72,
+    "School of Human Ecology": 11,
+    "Statistics and Data Sciences": 39,
+    "Textiles and Apparel": 10,
+    "UTeach-Natural Sciences": 10
+  },
+  "countingNote": "Department counts include joint appointments; a faculty member can appear in more than one department count. All Faculty counts each catalog record once.",
+  "profilesConnected": 542,
+  "researchProfilesConnected": 391,
+  "verifiedLabs": 122,
+  "followUp": [
+    {
+      "facultyId": "sarah-anne-abraham",
+      "name": "Sarah Anne Abraham",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "sarah-ellen-ades",
+      "name": "Sarah Ellen Ades",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "nandini-chari-aiyappan",
+      "name": "Nandini Chari Aiyappan",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "ishraq-al-awamleh",
+      "name": "Ishraq Al-Awamleh",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "eman-alasadi",
+      "name": "Eman Alasadi",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "kelli-rae-allen",
+      "name": "Kelli Rae Allen",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "william-j-allen",
+      "name": "William J Allen",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "natalie-younok-ammon",
+      "name": "Natalie Younok Ammon",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "brian-r-anderson",
+      "name": "Brian R Anderson",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "haseeb-ansari",
+      "name": "Haseeb Ansari",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "dhivya-arasappan",
+      "name": "Dhivya Arasappan",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "venkat-arun",
+      "name": "Venkat Arun",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "celest-m-austin",
+      "name": "Celest M Austin",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "william-j-babler",
+      "name": "William J Babler",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "joshua-dana-baer",
+      "name": "Joshua Dana Baer",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "angela-chappell-beasley",
+      "name": "Angela Chappell Beasley",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "patrick-benfield",
+      "name": "Patrick Benfield",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "nolan-bradford-bentley",
+      "name": "Nolan Bradford Bentley",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "william-marshall-best",
+      "name": "William Marshall Best",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "sanchita-bhadra",
+      "name": "Sanchita Bhadra",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "vertica-bhardwaj",
+      "name": "Vertica Bhardwaj",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "kirk-d-blazek",
+      "name": "Kirk D Blazek",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "cheasequah-j-blevins",
+      "name": "Cheasequah J Blevins",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "lauren-alexandra-blondeau",
+      "name": "Lauren Alexandra Blondeau",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "megan-boulette",
+      "name": "Megan Boulette",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "michael-boylan-kolchin",
+      "name": "Michael Boylan-Kolchin",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "boris-breizman",
+      "name": "Boris Breizman",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "chad-d-brock",
+      "name": "Chad D Brock",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "jay-r-brown",
+      "name": "Jay R Brown",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "katherine-m-bruner",
+      "name": "Katherine M Bruner",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "deanna-buckley",
+      "name": "Deanna Buckley",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "william-c-bulko",
+      "name": "William C Bulko",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "scott-burghart",
+      "name": "Scott Burghart",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "ruth-e-buskirk",
+      "name": "Ruth E Buskirk",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "courtney-e-byrd-williams",
+      "name": "Courtney E Byrd-Williams",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "cynthia-cabrera",
+      "name": "Cynthia Cabrera",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "eric-d-cambronne",
+      "name": "Eric D Cambronne",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "emily-caudill",
+      "name": "Emily Caudill",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "gustavo-e-cepparo",
+      "name": "Gustavo E Cepparo",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "wenrui-chai",
+      "name": "Wenrui Chai",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "jessica-h-chancey",
+      "name": "Jessica H Chancey",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "laura-m-chase",
+      "name": "Laura M Chase",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "siddhartha-chatterjee",
+      "name": "Siddhartha Chatterjee",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "james-r-chelikowsky",
+      "name": "James R Chelikowsky",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "su-chen",
+      "name": "Su Chen",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "z-jeffrey-chen",
+      "name": "Z Jeffrey Chen",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "shao-ying-cheng",
+      "name": "Shao-Ying Cheng",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "antonia-chimonidou",
+      "name": "Antonia Chimonidou",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "eunsol-choi",
+      "name": "Eunsol Choi",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "gail-chovan",
+      "name": "Gail Chovan",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "jessica-ciarla",
+      "name": "Jessica Ciarla",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "gregory-b-clark",
+      "name": "Gregory B Clark",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "shirley-cohen",
+      "name": "Shirley Cohen",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "rachel-grace-cohen-ford",
+      "name": "Rachel Grace Cohen-Ford",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "sarah-coleman",
+      "name": "Sarah Coleman",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "desmond-coles",
+      "name": "Desmond Coles",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "christopher-scott-connelly",
+      "name": "Christopher Scott Connelly",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "roman-corfas",
+      "name": "Roman Corfas",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "christopher-p-costello",
+      "name": "Christopher P Costello",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "milica-cudina",
+      "name": "Milica Cudina",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "molly-e-cummings",
+      "name": "Molly E Cummings",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "irving-dai",
+      "name": "Irving Dai",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "eric-m-de-waal",
+      "name": "Eric M De Waal",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "linda-ann-degraffenried",
+      "name": "Linda Ann deGraffenried",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "lauren-j-depue-ward",
+      "name": "Lauren J DePue Ward",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "bea-dibona",
+      "name": "Bea DiBona",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "isil-dillig",
+      "name": "Isil Dillig",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "kasia-j-dinkeloo",
+      "name": "Kasia J Dinkeloo",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "glenn-p-downing",
+      "name": "Glenn P Downing",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "joseph-j-dubie",
+      "name": "Joseph J Dubie",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "tavish-j-dunn",
+      "name": "Tavish J Dunn",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "gregory-c-durrett",
+      "name": "Gregory C Durrett",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "anthony-greg-dylla",
+      "name": "Anthony Greg Dylla",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "rivka-syd-matova-eisner",
+      "name": "Rivka Syd Matova Eisner",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "pamela-garrison-elias",
+      "name": "Pamela Garrison Elias",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "mootaz-n-elnozahy",
+      "name": "Mootaz N Elnozahy",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "michael-endl",
+      "name": "Michael Endl",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "peter-h-english",
+      "name": "Peter H English",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "alexandra-a-eusebi",
+      "name": "Alexandra A Eusebi",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "marilyn-m-felkner",
+      "name": "Marilyn M Felkner",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "tatia-s-feltman",
+      "name": "Tatia S Feltman",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "alberto-fernandez-de-las-nieves",
+      "name": "Alberto Fernandez de las Nieves",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "leanne-h-field",
+      "name": "Leanne H Field",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "gregory-a-fiete",
+      "name": "Gregory A Fiete",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "jillian-rose-fisher",
+      "name": "Jillian Rose Fisher",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "conrad-r-fjetland",
+      "name": "Conrad R Fjetland",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "will-flanagan",
+      "name": "Will Flanagan",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "scott-b-fleenor",
+      "name": "Scott B Fleenor",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "morgan-muriel-fong",
+      "name": "Morgan Muriel Fong",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "fares-z-fraij",
+      "name": "Fares Z Fraij",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "jennifer-h-fritz",
+      "name": "Jennifer H Fritz",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "emily-s-funderburg",
+      "name": "Emily S Funderburg",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "donald-s-fussell",
+      "name": "Donald S Fussell",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "daniel-a-galvin",
+      "name": "Daniel A Galvin",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "charlee-garden",
+      "name": "Charlee Garden",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "jason-j-gauci",
+      "name": "Jason J Gauci",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "ahmed-gheith",
+      "name": "Ahmed Gheith",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "nicole-v-giorgi",
+      "name": "Nicole V Giorgi",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "feliciano-giustino",
+      "name": "Feliciano Giustino",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "paul-goldbart",
+      "name": "Paul Goldbart",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "antonio-gonzalez-iii",
+      "name": "Antonio Gonzalez III",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "ellen-bernadine-gouws",
+      "name": "Ellen Bernadine Gouws",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "ashley-green",
+      "name": "Ashley Green",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "robert-joseph-griffitt",
+      "name": "Robert Joseph Griffitt",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "layla-guyot",
+      "name": "Layla Guyot",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "amanda-hager",
+      "name": "Amanda Hager",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "monica-renay-hall-porter",
+      "name": "Monica Renay Hall-Porter",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "ryan-hannigan",
+      "name": "Ryan Hannigan",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "anne-k-hansen",
+      "name": "Anne K Hansen",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "debra-r-hansen",
+      "name": "Debra R Hansen",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "christine-ramsey-hardy",
+      "name": "Christine Ramsey Hardy",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "shinko-k-harper",
+      "name": "Shinko K Harper",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "justin-w-hart",
+      "name": "Justin W Hart",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "aleah-henderson-carter",
+      "name": "Aleah Henderson-Carter",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "thushani-herath",
+      "name": "Thushani Herath",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "madison-herring",
+      "name": "Madison Herring",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "matthew-a-hersh",
+      "name": "Matthew A Hersh",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "gary-j-hill",
+      "name": "Gary J Hill",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "andrew-d-hintz",
+      "name": "Andrew D Hintz",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "jo-anne-c-holley",
+      "name": "Jo Anne C Holley",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "tepera-r-holman",
+      "name": "Tepera R Holman",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "kyong-joo-hong",
+      "name": "Kyong Joo Hong",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "mackenzie-a-howard",
+      "name": "Mackenzie A Howard",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "warren-a-hunt-jr",
+      "name": "Warren A Hunt Jr",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "marina-e-hutchins",
+      "name": "Marina E Hutchins",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "elizabeth-ilardi",
+      "name": "Elizabeth Ilardi",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "andrei-ionov",
+      "name": "Andrei Ionov",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "matteo-ippoliti",
+      "name": "Matteo Ippoliti",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "ibrahim-volkan-isler",
+      "name": "Ibrahim Volkan Isler",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "robert-k-jansen",
+      "name": "Robert K Jansen",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "frank-siegfried-jenko",
+      "name": "Frank Siegfried Jenko",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "becca-johnson",
+      "name": "Becca Johnson",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "giovanni-johnson",
+      "name": "Giovanni Johnson",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "stacy-jorgensen",
+      "name": "Stacy Jorgensen",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "prashant-d-joshi",
+      "name": "Prashant D Joshi",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "erez-karpas",
+      "name": "Erez Karpas",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "amrita-kaur",
+      "name": "Amrita Kaur",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "kenneth-c-keiler",
+      "name": "Kenneth C Keiler",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "hyunju-kim",
+      "name": "Hyunju Kim",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "brad-knox",
+      "name": "Brad Knox",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "terry-m-kotrla",
+      "name": "Terry M Kotrla",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "philipp-kraehenbuehl",
+      "name": "Philipp Kraehenbuehl",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "rostyslav-kravchenko",
+      "name": "Rostyslav Kravchenko",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "william-werner-kretschmer",
+      "name": "William Werner Kretschmer",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "gregory-kuhlmann",
+      "name": "Gregory Kuhlmann",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "devdatta-kulkarni",
+      "name": "Devdatta Kulkarni",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "paul-d-kunz",
+      "name": "Paul D Kunz",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "brian-la-cour",
+      "name": "Brian La Cour",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "elizabeth-a-labate",
+      "name": "Elizabeth A Labate",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "cynthia-a-labrake",
+      "name": "Cynthia A Labrake",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "matt-ladue",
+      "name": "Matt LaDue",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "zehua-lai",
+      "name": "Zehua Lai",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "karen-m-landolt",
+      "name": "Karen M Landolt",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "anita-g-latham",
+      "name": "Anita G Latham",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "lyndsay-logan-leach",
+      "name": "Lyndsay Logan Leach",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "elad-liebman",
+      "name": "Elad Liebman",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "randy-linder",
+      "name": "Randy Linder",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "jianlong-liu",
+      "name": "Jianlong Liu",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "hector-e-lomeli",
+      "name": "Hector E Lomeli",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "jaime-lopez",
+      "name": "Jaime Lopez",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "andrew-j-loveridge",
+      "name": "Andrew J Loveridge",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "kaijun-lu",
+      "name": "Kaijun Lu",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "lydia-rose-lucchesi",
+      "name": "Lydia Rose Lucchesi",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "martha-m-maas",
+      "name": "Martha M Maas",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "alex-macedo",
+      "name": "Alex Macedo",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "theresa-n-martines",
+      "name": "Theresa N Martines",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "lucas-mason-brown",
+      "name": "Lucas Mason-Brown",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "gene-d-mcdonald",
+      "name": "Gene D McDonald",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "kay-mcmurry",
+      "name": "Kay McMurry",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "michael-b-mcphail",
+      "name": "Michael B McPhail",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "john-c-meth",
+      "name": "John C Meth",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "pedro-metola",
+      "name": "Pedro Metola",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "thomas-r-middendorf",
+      "name": "Thomas R Middendorf",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "melissa-miller",
+      "name": "Melissa Miller",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "charles-d-mills",
+      "name": "Charles D Mills",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "zachary-l-miner",
+      "name": "Zachary L Miner",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "lauren-a-mitchell",
+      "name": "Lauren A Mitchell",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "shyamal-k-mitra",
+      "name": "Shyamal K Mitra",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "michael-h-montgomery",
+      "name": "Michael H Montgomery",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "jennifer-moon",
+      "name": "Jennifer Moon",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "raymond-j-mooney",
+      "name": "Raymond J Mooney",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "maud-trist-morgan",
+      "name": "Maud Trist Morgan",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "dana-hadar-moshkovitz-aaronson",
+      "name": "Dana Hadar Moshkovitz aaronson",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "amy-r-musgrave",
+      "name": "Amy R Musgrave",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "felicity-muth",
+      "name": "Felicity Muth",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "margaret-elaine-myers",
+      "name": "Margaret Elaine Myers",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "mit-naik",
+      "name": "Mit Naik",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "ross-michael-neuman",
+      "name": "Ross Michael Neuman",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "scott-david-niekum",
+      "name": "Scott David Niekum",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "seth-james-nielson",
+      "name": "Seth James Nielson",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "alison-n-norman",
+      "name": "Alison N Norman",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "john-michael-osborn",
+      "name": "John Michael Osborn",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "joaquin-marcos-palacios",
+      "name": "Joaquin Marcos Palacios",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "devangi-nikunj-parikh",
+      "name": "Devangi Nikunj Parikh",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "mary-r-parker",
+      "name": "Mary R Parker",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "mychelle-parker",
+      "name": "Mychelle Parker",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "lara-l-pauley",
+      "name": "Lara L Pauley",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "amy-pavel",
+      "name": "Amy Pavel",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "georgios-pavlakos",
+      "name": "Georgios Pavlakos",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "gergina-v-pencheva",
+      "name": "Gergina V Pencheva",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "tina-l-peterson",
+      "name": "Tina L Peterson",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "c-greg-plaxton",
+      "name": "C Greg Plaxton",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "elizabeth-a-porter",
+      "name": "Elizabeth A Porter",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "mary-f-poteet",
+      "name": "Mary F Poteet",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "william-h-press",
+      "name": "William H Press",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "kristen-j-procko",
+      "name": "Kristen J Procko",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "lili-qiu",
+      "name": "Lili Qiu",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "michelann-quimby",
+      "name": "Michelann Quimby",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "sally-kathleen-amen-ragsdale",
+      "name": "Sally Kathleen Amen Ragsdale",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "vijaya-ramachandran",
+      "name": "Vijaya Ramachandran",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "carol-ramsey",
+      "name": "Carol Ramsey",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "mary-e-ramsey",
+      "name": "Mary E Ramsey",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "veena-ravishankar",
+      "name": "Veena Ravishankar",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "nicole-reed",
+      "name": "Nicole Reed",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "stuart-a-reichler",
+      "name": "Stuart A Reichler",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "kristi-a-reid-partin",
+      "name": "Kristi A Reid-Partin",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "nicolas-reyes",
+      "name": "Nicolas Reyes",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "stacia-e-rodenbusch",
+      "name": "Stacia E Rodenbusch",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "shelly-r-rodriguez",
+      "name": "Shelly R Rodriguez",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "kara-joy-helmke-rogers",
+      "name": "Kara Joy Helmke Rogers",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "james-jerry-rowan",
+      "name": "James Jerry Rowan",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "julio-cesar-ruiz",
+      "name": "Julio Cesar Ruiz",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "stephen-thomas-russell",
+      "name": "Stephen Thomas Russell",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "soroosh-sadeh",
+      "name": "Soroosh Sadeh",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "cynthia-saldivar-fitchpatrick",
+      "name": "Cynthia Saldivar fitchpatrick",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "farhana-sarower",
+      "name": "Farhana Sarower",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "kanagasabapathi-sathasivan",
+      "name": "Kanagasabapathi Sathasivan",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "taylor-jane-schoberle",
+      "name": "Taylor Jane Schoberle",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "william-schwartz",
+      "name": "William Schwartz",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "michael-d-scott",
+      "name": "Michael D Scott",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "shagufta-hasnain-shabbir",
+      "name": "Shagufta Hasnain Shabbir",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "hovav-shacham",
+      "name": "Hovav Shacham",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "ruth-i-shear",
+      "name": "Ruth I Shear",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "gennady-shvets",
+      "name": "Gennady Shvets",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "monica-sianez",
+      "name": "Monica Sianez",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "laura-sisk-hackworth",
+      "name": "Laura Sisk-Hackworth",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "isaac-smith",
+      "name": "Isaac Smith",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "arjun-sobnack",
+      "name": "Arjun Sobnack",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "paola-sotelo",
+      "name": "Paola Sotelo",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "stacy-c-sparks",
+      "name": "Stacy C Sparks",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "eric-j-staron",
+      "name": "Eric J Staron",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "elizabeth-f-stepp",
+      "name": "Elizabeth F Stepp",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "naomi-stolpner",
+      "name": "Naomi Stolpner",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "andrei-straumanis",
+      "name": "Andrei Straumanis",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "jessica-streu",
+      "name": "Jessica Streu",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "thomas-struppeck",
+      "name": "Thomas Struppeck",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "deborah-y-sztejnberg",
+      "name": "Deborah Y Sztejnberg",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "dixin-tang",
+      "name": "Dixin Tang",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "fatma-tarlaci",
+      "name": "Fatma Tarlaci",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "richard-a-taylor",
+      "name": "Richard A Taylor",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "kia-teymourian",
+      "name": "Kia Teymourian",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "kevin-tian",
+      "name": "Kevin Tian",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "aida-torabi",
+      "name": "Aida Torabi",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "philip-m-treisman",
+      "name": "Philip M Treisman",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "alfred-a-tuley",
+      "name": "Alfred A Tuley",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "semahat-serra-ucer-ozgurel",
+      "name": "Semahat Serra Ucer Ozgurel",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "david-a-vandenbout",
+      "name": "David A Vandenbout",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "vijaychidambaram-velayudhan-pillai",
+      "name": "Vijaychidambaram Velayudhan Pillai",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "laura-villafuerte-altuzar",
+      "name": "Laura Villafuerte Altuzar",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "sara-villanueva",
+      "name": "Sara Villanueva",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "amanda-j-vines",
+      "name": "Amanda J Vines",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "bindu-viswanathan",
+      "name": "Bindu Viswanathan",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "vincent-roger-viviani",
+      "name": "Vincent Roger Viviani",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "paul-etienne-vouga",
+      "name": "Paul Etienne Vouga",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "jay-wadekar",
+      "name": "Jay Wadekar",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "alisa-h-walch",
+      "name": "Alisa H Walch",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "stephen-g-walker",
+      "name": "Stephen G Walker",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "aurora-d-wallace",
+      "name": "Aurora D Wallace",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "jessica-e-wandelt",
+      "name": "Jessica E Wandelt",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "karen-a-weems",
+      "name": "Karen A Weems",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "jay-s-whitehead",
+      "name": "Jay S Whitehead",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "thilini-wijesekera",
+      "name": "Thilini Wijesekera",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "shawn-williams",
+      "name": "Shawn Williams",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "hannah-williamson",
+      "name": "Hannah Williamson",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "sinead-williamson",
+      "name": "Sinead Williamson",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "becky-wilson",
+      "name": "Becky Wilson",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "jennifer-l-wilson",
+      "name": "Jennifer L Wilson",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "michael-wilson",
+      "name": "Michael Wilson",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "erica-winterer",
+      "name": "Erica Winterer",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "william-r-wolesensky",
+      "name": "William R Wolesensky",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "josefine-ortiz-wolfe",
+      "name": "Josefine Ortiz Wolfe",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "matthew-worden",
+      "name": "Matthew Worden",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "konrad-wrobel",
+      "name": "Konrad Wrobel",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "dominic-louis-wynter",
+      "name": "Dominic Louis Wynter",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "junhong-xu",
+      "name": "Junhong Xu",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "sujay-yadalam-sudarshan",
+      "name": "Sujay Yadalam Sudarshan",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "soo-hyun-yang",
+      "name": "Soo Hyun Yang",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "yuan-yao",
+      "name": "Yuan Yao",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "john-anthony-yeazell",
+      "name": "John Anthony Yeazell",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "rebecca-young",
+      "name": "Rebecca Young",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "william-d-young",
+      "name": "William D Young",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "chen-yu",
+      "name": "Chen Yu",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "harold-h-zakon",
+      "name": "Harold H Zakon",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "diana-p-zamora-olivares",
+      "name": "Diana P Zamora-Olivares",
+      "flags": [
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "sherry-zhang",
+      "name": "Sherry Zhang",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "shuangjie-zhang",
+      "name": "Shuangjie Zhang",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "bang-zheng",
+      "name": "Bang Zheng",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    },
+    {
+      "facultyId": "corwin-zigler",
+      "name": "Corwin Zigler",
+      "flags": [
+        "profile_url_not_connected",
+        "research_source_not_connected"
+      ]
+    }
+  ],
+  "displayedResearchProfiles": 391,
+  "displayPolicy": "Only verified public research profiles are displayed. The full catalog roster remains canonical.",
+  "catalogRosterCount": 689,
+  "verificationStatuses": {
+    "retrieved": 717,
+    "unique_match": 558,
+    "no_confident_match": 131,
+    "retrieval_failed": 619,
+    "profile_identity_not_confirmed": 5,
+    "exact_roster_match": 1
+  },
+  "displayedLabWebsites": 120,
+  "appointmentOrderCorrections": [
+    "james-anthony-mendoza-alvarez",
+    "brett-j-baker",
+    "james-r-chelikowsky",
+    "jonathan-yan-chen",
+    "z-jeffrey-chen",
+    "antonia-chimonidou",
+    "gregory-b-clark",
+    "leanne-h-field",
+    "janice-a-fischer",
+    "nick-hunter-jones",
+    "michael-p-marder",
+    "andreas-matouschek",
+    "vagheesh-m-narasimhan",
+    "martin-poenie",
+    "stacia-e-rodenbusch",
+    "shelly-r-rodriguez",
+    "purnamrita-sarkar",
+    "scott-w-stevens",
+    "devarajan-thirumalai",
+    "thilini-wijesekera",
+    "harold-h-zakon",
+    "mingyuan-zhou"
+  ]
+}

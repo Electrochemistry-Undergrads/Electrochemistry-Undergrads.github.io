@@ -1,0 +1,2605 @@
+[
+  {
+    "id": "natalie-younok-ammon",
+    "name": "Priscilla Pond Flawn Child & Family Lab",
+    "displayName": "Priscilla Pond Flawn Child & Family Lab",
+    "facultyId": "natalie-younok-ammon",
+    "department": "Human Development and Family Sciences",
+    "summary": null,
+    "areas": [],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://labschool.hhs.utexas.edu/",
+    "publicationIds": [],
+    "sourceUrl": "https://hdfs.utexas.edu/directory/natalie-ammon",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "eric-v-anslyn",
+    "name": "Anslyn Lab",
+    "displayName": "Anslyn Lab",
+    "facultyId": "eric-v-anslyn",
+    "department": "Chemistry",
+    "summary": "Research topics listed by UT include Materials Science, Analytical Chemistry, Chemical Biology.",
+    "areas": [
+      "Life & Health",
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://anslyn.cm.utexas.edu/AnslynWebsite/index.html",
+    "publicationIds": [],
+    "sourceUrl": "https://chemistry.utexas.edu/directory/eric-anslyn",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "maria-mercedes-arredondo",
+    "name": "Child Learning & Development Studies Lab",
+    "displayName": "Child Learning & Development Studies Lab",
+    "facultyId": "maria-mercedes-arredondo",
+    "department": "Human Development and Family Sciences",
+    "summary": "Research topics listed by UT include Human Development, Culture, Inequality or Resilience, Behavior.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://sites.utexas.edu/childslab/",
+    "publicationIds": [
+      "doi-6e01bfb61d89174e"
+    ],
+    "sourceUrl": "https://hdfs.utexas.edu/directory/maria-arredondo",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "michael-aubrey",
+    "name": "Aubrey Lab",
+    "displayName": "Aubrey Lab",
+    "facultyId": "michael-aubrey",
+    "department": "Chemistry",
+    "summary": "Research topics listed by UT include Energy, Materials Science, Nanoscience and Nanotechnology.",
+    "areas": [
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://www.aubrey.group/",
+    "publicationIds": [],
+    "sourceUrl": "https://chemistry.utexas.edu/directory/michael-aubrey",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "brett-j-baker",
+    "name": "Baker Marine Microbial Ecology Lab",
+    "displayName": "Baker Marine Microbial Ecology Lab",
+    "facultyId": "brett-j-baker",
+    "department": "Marine Science",
+    "summary": "Research topics listed by UT include Molecular Biology or Genetics, Biodiversity, Ecology or Sustainability, Oceans and Freshwater.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Earth & Environment",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://sites.utexas.edu/baker-lab/",
+    "publicationIds": [
+      "doi-7241cf9db37f8048"
+    ],
+    "sourceUrl": "https://marinescience.utexas.edu/directory/brett-baker",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "edoardo-baldini",
+    "name": "Baldini Lab",
+    "displayName": "Baldini Lab",
+    "facultyId": "edoardo-baldini",
+    "department": "Physics",
+    "summary": "Research topics listed by UT include Lasers, Materials Science, Quantum Information or Computing.",
+    "areas": [
+      "Data & Computing",
+      "Physics & Space",
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://baldinilab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://physics.utexas.edu/directory/edoardo-baldini",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "aprile-d-benner",
+    "name": "The Mosaic Lab",
+    "displayName": "The Mosaic Lab",
+    "facultyId": "aprile-d-benner",
+    "department": "Human Development and Family Sciences",
+    "summary": "Research topics listed by UT include Relationships, Families and Youth, Culture, Inequality or Resilience, Adolescence and Young Adulthood.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://sites.utexas.edu/mosaiclab/",
+    "publicationIds": [],
+    "sourceUrl": "https://hdfs.utexas.edu/directory/aprile-benner",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "george-d-bittner",
+    "name": "Bittner Lab",
+    "displayName": "Bittner Lab",
+    "facultyId": "george-d-bittner",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, Molecular Biology, Genetics & Genomics, Behavior.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.utexas.edu/bittnerlab/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/george-bittner",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "carlos-botero",
+    "name": "The Botero Lab",
+    "displayName": "The Botero Lab",
+    "facultyId": "carlos-botero",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Evolution, Biodiversity, Ecology or Sustainability, Climate Change.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://boterolab.weebly.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/carlos-botero",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "simon-j-brandl",
+    "name": "Brandl Lab - Fish & Functions",
+    "displayName": "Brandl Lab - Fish & Functions",
+    "facultyId": "simon-j-brandl",
+    "department": "Marine Science",
+    "summary": "Research topics listed by UT include Oceans and Freshwater, Biodiversity, Coastal Ecosystem Processes.",
+    "areas": [
+      "Earth & Environment"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://fishandfunctions.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://marinescience.utexas.edu/directory/simon-brandl",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "jennifer-s-brodbelt",
+    "name": "Brodbelt Research Group",
+    "displayName": "Brodbelt Research Group",
+    "facultyId": "jennifer-s-brodbelt",
+    "department": "Chemistry",
+    "summary": "Research topics listed by UT include Materials Science, Biophysics or Structural Biology, Analytical Chemistry.",
+    "areas": [
+      "Life & Health",
+      "Physics & Space",
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://sites.utexas.edu/brodbelt/",
+    "publicationIds": [],
+    "sourceUrl": "https://chemistry.utexas.edu/directory/jennifer-brodbelt",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "karen-s-browning",
+    "name": "Browning Lab",
+    "displayName": "Browning Lab",
+    "facultyId": "karen-s-browning",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Molecular Biology or Genetics, Molecular Biology, Genetics & Genomics, Plant Biology.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://browning.cm.utexas.edu/index.html",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/karen-s-browning",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "amy-e-bryan",
+    "name": "Priscilla Pond Flawn Child & Family Laboratory",
+    "displayName": "Priscilla Pond Flawn Child & Family Laboratory",
+    "facultyId": "amy-e-bryan",
+    "department": "Human Development and Family Sciences",
+    "summary": "Research topics listed by UT include Child and Adolescent Health, Contexts of Human Development, Infancy and Childhood.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://labschool.hhs.utexas.edu/",
+    "publicationIds": [],
+    "sourceUrl": "https://hdfs.utexas.edu/directory/amy-bryan",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "marissa-burgermaster",
+    "name": "Burgermaster Lab",
+    "displayName": "Burgermaster Lab",
+    "facultyId": "marissa-burgermaster",
+    "department": "Nutritional Sciences",
+    "summary": "Research topics listed by UT include Nutrition or Obesity, Statistics, Big Data or Machine Learning, Clinical and Translational Nutrition.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing"
+    ],
+    "methods": [
+      "Computational"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://sites.utexas.edu/burgermasterlab/",
+    "publicationIds": [],
+    "sourceUrl": "https://nutrition.utexas.edu/directory/marissa-burgermaster",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "xiaolu-cambronne",
+    "name": "Cambronne Lab",
+    "displayName": "Cambronne Lab",
+    "facultyId": "xiaolu-cambronne",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Biochemistry, Cell and Molecular Biology, Cellular/Molecular/Structure.",
+    "areas": [
+      "Life & Health",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://www.lulucambronne.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/xiaolu-lulu-lim-ang-cambronne",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "david-cannatella",
+    "name": "Cannatella Lab",
+    "displayName": "Cannatella Lab",
+    "facultyId": "david-cannatella",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Biodiversity, Ecology or Sustainability, Evolution, Evolutionary Biology.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Computational"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://cannatellalab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/david-cannatella",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "jordan-casey",
+    "name": "Casey Lab",
+    "displayName": "Casey Lab",
+    "facultyId": "jordan-casey",
+    "department": "Marine Science",
+    "summary": "Research topics listed by UT include Oceans and Freshwater, Biodiversity, Ecology or Sustainability, Biodiversity.",
+    "areas": [
+      "Earth & Environment"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://caseylab.weebly.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://marinescience.utexas.edu/directory/jordan-casey",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "can-cenik",
+    "name": "Cenik Lab",
+    "displayName": "Cenik Lab",
+    "facultyId": "can-cenik",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include AI for Health or Computational Science, Molecular Biology or Genetics, Statistics, Big Data or Machine Learning.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing"
+    ],
+    "methods": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://ceniklab.github.io/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/can-cenik",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "laura-lee-colgin",
+    "name": "Colgin Lab",
+    "displayName": "Colgin Lab",
+    "facultyId": "laura-lee-colgin",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, Learning and Memory, Health Promotion or Disease Prevention.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing"
+    ],
+    "methods": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://www.llcolginlab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/laura-colgin",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "phuong-duc-dao",
+    "name": "Dao Lab Website",
+    "displayName": "Dao Lab Website",
+    "facultyId": "phuong-duc-dao",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Biodiversity, Ecology or Sustainability, Climate Change, Artificial Intelligence and/or Robotics.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Computational"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://daolab.weebly.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/phuong-dao",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "bryan-william-davies",
+    "name": "Davies Lab",
+    "displayName": "Davies Lab",
+    "facultyId": "bryan-william-davies",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Infectious Disease, Immunology and Microbiology, Vaccines and/or Therapeutics, Health Promotion or Disease Prevention.",
+    "areas": [
+      "Life & Health",
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://bwdaviesutaustin.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/bryan-w-davies",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "davis",
+    "name": "EdEN",
+    "displayName": "EdEN",
+    "facultyId": "davis",
+    "department": "Nutritional Sciences",
+    "summary": "Studies nutrition and physical activity interventions, including community and school programs, to improve metabolic health.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Clinical research",
+      "Community interventions",
+      "Nutrition data"
+    ],
+    "setting": [
+      "Field research",
+      "Computational"
+    ],
+    "siteUrl": "https://www.edenut.org",
+    "publicationIds": [],
+    "sourceUrl": "https://nutrition.utexas.edu/directory/jaimie-davis",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "daniel-james-dickinson",
+    "name": "Dickinson Lab",
+    "displayName": "Dickinson Lab",
+    "facultyId": "daniel-james-dickinson",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Biochemistry, Cell and Developmental Biology.",
+    "areas": [
+      "Life & Health",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Computational"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://utdickinsonlab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/daniel-j-dickinson",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "lauren-k-dobbs",
+    "name": "Dobbs Lab Website",
+    "displayName": "Dobbs Lab Website",
+    "facultyId": "lauren-k-dobbs",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, Substance Use Disorders, Health Promotion or Disease Prevention.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://dobbslab.wordpress.com/home/our-team/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/lauren-dobbs",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "michael-drew",
+    "name": "The Drew Lab",
+    "displayName": "The Drew Lab",
+    "facultyId": "michael-drew",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, Learning and Memory, Molecular Biology, Genetics & Genomics.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://www.thedrewlab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/michael-drew",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "jaquelin-p-dudley",
+    "name": "Dudley Lab",
+    "displayName": "Dudley Lab",
+    "facultyId": "jaquelin-p-dudley",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Molecular Biology or Genetics, Infectious Disease, Immunology and Microbiology, Molecular Biology, Genetics & Genomics.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.utexas.edu/dudleylab/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/jaquelin-p-dudley",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "dunton",
+    "name": "Dunton Lab",
+    "displayName": "Dunton Lab",
+    "facultyId": "dunton",
+    "department": "Marine Science",
+    "summary": "Studies coastal ecosystems, including seagrasses, kelp, and marshes, and how environmental changes affect carbon storage and food webs.",
+    "areas": [
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Field research",
+      "Stable isotopes",
+      "Ecosystem monitoring"
+    ],
+    "setting": [
+      "Field research",
+      "Wet lab"
+    ],
+    "siteUrl": "https://duntonlab.wixsite.com/duntonlab",
+    "publicationIds": [],
+    "sourceUrl": "https://marinescience.utexas.edu/directory/kenneth-dunton",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "johann-k-eberhart",
+    "name": "Eberhart Lab",
+    "displayName": "Eberhart Lab",
+    "facultyId": "johann-k-eberhart",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Molecular Biology or Genetics, Substance Use Disorders, Cell and Developmental Biology.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://www.labeberhart.com",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/johann-k-eberhart",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "lauren-ilyse-richie-ehrlich",
+    "name": "Ehrlich Lab",
+    "displayName": "Ehrlich Lab",
+    "facultyId": "lauren-ilyse-richie-ehrlich",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Health Promotion or Disease Prevention, Infectious Disease, Immunology and Microbiology, Cell and Developmental Biology.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://ehrlichlab.squarespace.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/lauren-i-r-ehrlich",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "andrew-ellington",
+    "name": "Ellington Lab",
+    "displayName": "Ellington Lab",
+    "facultyId": "andrew-ellington",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Biochemistry, Materials Science, Analytical Chemistry.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Computational"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://ellingtonlab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/andrew-ellington",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "caroline-e-farrior",
+    "name": "Farrior Lab",
+    "displayName": "Farrior Lab",
+    "facultyId": "caroline-e-farrior",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Biodiversity, Ecology or Sustainability, Evolution, Mathematics.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://farriorlab.github.io/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/caroline-farrior",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "lief-fenno",
+    "name": "Fenno Lab",
+    "displayName": "Fenno Lab",
+    "facultyId": "lief-fenno",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, Substance Use Disorders, Health Promotion or Disease Prevention.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://www.fennolab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/lief-fenno",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "karen-l-fingerman",
+    "name": "Older Adult Well-being Lab (OWL)",
+    "displayName": "Older Adult Well-being Lab (OWL)",
+    "facultyId": "karen-l-fingerman",
+    "department": "Human Development and Family Sciences",
+    "summary": "Research topics listed by UT include Human Development, Culture, Inequality or Resilience, Relationships, Families and Youth.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://sites.utexas.edu/owl/",
+    "publicationIds": [
+      "doi-c4095f3cbdbda517"
+    ],
+    "sourceUrl": "https://hdfs.utexas.edu/directory/karen-fingerman",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "ilya-j-finkelstein",
+    "name": "Finkelstein Lab",
+    "displayName": "Finkelstein Lab",
+    "facultyId": "ilya-j-finkelstein",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Molecular Biology or Genetics, Statistics, Big Data or Machine Learning, Structural Biology and Biophysics.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Physics & Space",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://finkelsteinlab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/ilya-j-finkelstein",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "james-c-fleet",
+    "name": "Fleet Lab",
+    "displayName": "Fleet Lab",
+    "facultyId": "james-c-fleet",
+    "department": "Nutritional Sciences",
+    "summary": "Research topics listed by UT include Nutrition or Obesity, Molecular Biology or Genetics, Molecular Biology, Genetics & Genomics.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.google.com/view/fleet-lab/home",
+    "publicationIds": [],
+    "sourceUrl": "https://nutrition.utexas.edu/directory/james-fleet",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "william-gilpin",
+    "name": "The Gilpin Lab",
+    "displayName": "The Gilpin Lab",
+    "facultyId": "william-gilpin",
+    "department": "Physics",
+    "summary": "Research topics listed by UT include Statistics, Big Data or Machine Learning, Biophysics & Nonlinear Dynamics.",
+    "areas": [
+      "Data & Computing",
+      "Physics & Space"
+    ],
+    "methods": [
+      "Computational"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://www.wgilpin.com/gilpinlab/",
+    "publicationIds": [],
+    "sourceUrl": "https://physics.utexas.edu/directory/william-gilpin",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "marci-elizabeth-joy-gleason",
+    "name": "The Daily Living Project Lab",
+    "displayName": "The Daily Living Project Lab",
+    "facultyId": "marci-elizabeth-joy-gleason",
+    "department": "Human Development and Family Sciences",
+    "summary": "Research topics listed by UT include Relationships, Families and Youth, Human Development, Health Promotion or Disease Prevention.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://sites.utexas.edu/dailylivingproject/",
+    "publicationIds": [],
+    "sourceUrl": "https://hdfs.utexas.edu/directory/marci-gleason",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "nace-l-golding",
+    "name": "Golding Lab",
+    "displayName": "Golding Lab",
+    "facultyId": "nace-l-golding",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, Learning and Memory, Electrophys, Optogenetics & Chemogenetics.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://www.goldinglab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/nace-golding",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "marcel-goldschen",
+    "name": "GOLDSCHEN-OHM LAB",
+    "displayName": "GOLDSCHEN-OHM LAB",
+    "facultyId": "marcel-goldschen",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Biophysics or Structural Biology, Neuroscience, Biological Mechanisms of Aging & Dementia.",
+    "areas": [
+      "Life & Health",
+      "Physics & Space"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://marcel-goldschen-ohm.github.io/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/marcel-goldschen",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "suzana-goncalves-leles",
+    "name": "The MMAR Lab - Marine Microbial Adaptive Responses",
+    "displayName": "The MMAR Lab - Marine Microbial Adaptive Responses",
+    "facultyId": "suzana-goncalves-leles",
+    "department": "Marine Science",
+    "summary": "Research topics listed by UT include Oceans and Freshwater, Ecology and Global Change Biology, Microbial Processes.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Wet lab",
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Wet lab",
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://themmarlab.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://marinescience.utexas.edu/directory/suzana-goncalves-leles",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "ryan-s-gray",
+    "name": "GRAY LAB",
+    "displayName": "GRAY LAB",
+    "facultyId": "ryan-s-gray",
+    "department": "Nutritional Sciences",
+    "summary": "Research topics listed by UT include Molecular Biology or Genetics, Human Development, Molecular Biology, Genetics & Genomics.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://www.rsg1lab.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://nutrition.utexas.edu/directory/ryan-s-gray",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "jeffrey-martin-gross",
+    "name": "Gross Lab",
+    "displayName": "Gross Lab",
+    "facultyId": "jeffrey-martin-gross",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Molecular Biology or Genetics, Evolution, Health Promotion or Disease Prevention.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://www.grosslab.net/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/jeffrey-m-gross",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "rasika-m-harshey",
+    "name": "Harshey Lab",
+    "displayName": "Harshey Lab",
+    "facultyId": "rasika-m-harshey",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Infectious Disease, Immunology and Microbiology, Health Promotion or Disease Prevention, Molecular Biology or Genetics.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.utexas.edu/harsheylab/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/rasika-m-harshey",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "daniel-j-heinzen",
+    "name": "Heinzen Physics Lab",
+    "displayName": "Heinzen Physics Lab",
+    "facultyId": "daniel-j-heinzen",
+    "department": "Physics",
+    "summary": "Research topics listed by UT include Quantum Information or Computing.",
+    "areas": [
+      "Data & Computing",
+      "Physics & Space"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://web2.ph.utexas.edu/~coldatom/",
+    "publicationIds": [],
+    "sourceUrl": "https://physics.utexas.edu/directory/daniel-heinzen",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "graeme-andrew-henkelman",
+    "name": "Henkelman Lab",
+    "displayName": "Henkelman Lab",
+    "facultyId": "graeme-andrew-henkelman",
+    "department": "Chemistry",
+    "summary": "Research topics listed by UT include Materials Science, Nanoscience and Nanotechnology, Energy.",
+    "areas": [
+      "Data & Computing",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Computational"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://henkelmanlab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://chemistry.utexas.edu/directory/graeme-henkelman",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "johann-hofmann",
+    "name": "The Hofmann Lab",
+    "displayName": "The Hofmann Lab",
+    "facultyId": "johann-hofmann",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Evolution, AI for Health or Computational Science, Statistics, Big Data or Machine Learning.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://sites.utexas.edu/evoneuro/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/johann-hans-hofmann",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "ken-hsu",
+    "name": "Hsu Lab",
+    "displayName": "Hsu Lab",
+    "facultyId": "ken-hsu",
+    "department": "Chemistry",
+    "summary": "Research topics listed by UT include Chemical Biology, Organic Chemistry, Biological Mechanisms of Aging & Dementia.",
+    "areas": [
+      "Life & Health",
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://hsulab.com/index.html",
+    "publicationIds": [],
+    "sourceUrl": "https://chemistry.utexas.edu/directory/ken-hsu",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "xinping-hu",
+    "name": "Coastal Carbon Cycle Lab",
+    "displayName": "Coastal Carbon Cycle Lab",
+    "facultyId": "xinping-hu",
+    "department": "Marine Science",
+    "summary": "Research topics listed by UT include Oceans and Freshwater, Marine Chemistry, Biogeochemistry.",
+    "areas": [
+      "Earth & Environment",
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://hulab.utmsi.utexas.edu",
+    "publicationIds": [
+      "doi-14c90764afcf8b49"
+    ],
+    "sourceUrl": "https://marinescience.utexas.edu/directory/xinping-hu",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "simon-m-humphrey",
+    "name": "Humphrey Research Group",
+    "displayName": "Humphrey Research Group",
+    "facultyId": "simon-m-humphrey",
+    "department": "Chemistry",
+    "summary": "Research topics listed by UT include Materials Science, Nanoscience and Nanotechnology, Inorganic Chemistry.",
+    "areas": [
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://humphrey.cm.utexas.edu/wordpress/",
+    "publicationIds": [],
+    "sourceUrl": "https://chemistry.utexas.edu/directory/simon-humphrey",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "enamul-huq",
+    "name": "Huq Lab",
+    "displayName": "Huq Lab",
+    "facultyId": "enamul-huq",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Biochemistry, Molecular Biology or Genetics, Plant Biology.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.utexas.edu/huqlab/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/enamul-huq",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "brent-l-iverson",
+    "name": "Iverson Lab",
+    "displayName": "Iverson Lab",
+    "facultyId": "brent-l-iverson",
+    "department": "Chemistry",
+    "summary": "Research topics listed by UT include Vaccines and/or Therapeutics, Materials Science.",
+    "areas": [
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://brent.iverson.cm.utexas.edu",
+    "publicationIds": [],
+    "sourceUrl": "https://chemistry.utexas.edu/directory/brent-iverson",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "arlen-w-johnson",
+    "name": "The Johnson Lab",
+    "displayName": "The Johnson Lab",
+    "facultyId": "arlen-w-johnson",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Biochemistry, Molecular Biology or Genetics, Molecular Biology, Genetics & Genomics.",
+    "areas": [
+      "Life & Health",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://arlen002.wixsite.com/johnsonlab",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/arlen-w-johnson",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "kenneth-johnson",
+    "name": "Kenneth A. Johnson's Lab",
+    "displayName": "Kenneth A. Johnson's Lab",
+    "facultyId": "kenneth-johnson",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Biochemistry, Biophysics or Structural Biology, Molecular Biology or Genetics.",
+    "areas": [
+      "Life & Health",
+      "Physics & Space",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://molecularbiosci.utexas.edu/directory/kenneth-johnson",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/kenneth-johnson",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "thomas-e-juenger",
+    "name": "The Juenger Laboratory",
+    "displayName": "The Juenger Laboratory",
+    "facultyId": "thomas-e-juenger",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Biodiversity, Ecology or Sustainability, Evolution, Ecology and Global Change Biology.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://sites.utexas.edu/juenger-lab/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/thomas-juenger",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "husniye-kantarci",
+    "name": "Kantarci Lab Website",
+    "displayName": "Kantarci Lab Website",
+    "facultyId": "husniye-kantarci",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Molecular Biology, Genetics & Genomics, Electrophys, Optogenetics & Chemogenetics, Optical Imaging.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.utexas.edu/kantarcilab/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/husniye-kantarci",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "zunlong-ke",
+    "name": "Ke Lab",
+    "displayName": "Ke Lab",
+    "facultyId": "zunlong-ke",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Biophysics or Structural Biology, Infectious Disease, Immunology and Microbiology, Biochemistry.",
+    "areas": [
+      "Life & Health",
+      "Physics & Space",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://www.zunlongke-lab.org",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/zunlong-ke",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "adrian-t-keatinge-clay",
+    "name": "Keatinge-Clay Lab",
+    "displayName": "Keatinge-Clay Lab",
+    "facultyId": "adrian-t-keatinge-clay",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Biochemistry, Biophysics or Structural Biology, Structural Biology and Biophysics.",
+    "areas": [
+      "Life & Health",
+      "Physics & Space",
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "http://keatinge-clay.cm.utexas.edu/research/index.html",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/adrian-t-keatinge-clay",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "timothy-h-keitt",
+    "name": "Keitt Lab",
+    "displayName": "Keitt Lab",
+    "facultyId": "timothy-h-keitt",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Biodiversity, Ecology or Sustainability, Climate Change, Statistics, Big Data or Machine Learning.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Computational"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://keittlab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/timothy-keitt",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "melissa-kemp",
+    "name": "The Kemp Lab",
+    "displayName": "The Kemp Lab",
+    "facultyId": "melissa-kemp",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Evolution, Biodiversity, Ecology or Sustainability, Evolutionary Biology.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://www.melissakemp.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/melissa-kemp",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "can-kilic",
+    "name": "Can Kilic Research Group and Activities",
+    "displayName": "Can Kilic Research Group and Activities",
+    "facultyId": "can-kilic",
+    "department": "Physics",
+    "summary": "Research topics listed by UT include Cosmology or Space, Particle Physics, Computational/Theoretical.",
+    "areas": [
+      "Data & Computing",
+      "Physics & Space"
+    ],
+    "methods": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://sites.utexas.edu/cankilic/",
+    "publicationIds": [],
+    "sourceUrl": "https://physics.utexas.edu/directory/can-kilic",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "jonghwan-kim",
+    "name": "Kim Lab",
+    "displayName": "Kim Lab",
+    "facultyId": "jonghwan-kim",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Molecular Biology or Genetics, Cell and Developmental Biology, Molecular Biology, Genetics & Genomics.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://www.kimlab.website/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/jonghwan-kim",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "amanda-koltz",
+    "name": "Koltz Lab",
+    "displayName": "Koltz Lab",
+    "facultyId": "amanda-koltz",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Biodiversity, Ecology or Sustainability, Climate Change, Ecology and Global Change Biology.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://amkoltz.weebly.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/amanda-koltz",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "krische",
+    "name": "The Krische Research Group",
+    "displayName": "The Krische Research Group",
+    "facultyId": "krische",
+    "department": "Chemistry",
+    "summary": "Develops catalytic reactions that connect carbon atoms and make chemical synthesis more efficient.",
+    "areas": [
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Organic synthesis",
+      "Catalysis",
+      "Organometallic chemistry"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.google.com/a/utexas.edu/the-krische-research-group/home",
+    "publicationIds": [
+      "green-coupling"
+    ],
+    "sourceUrl": "https://chemistry.utexas.edu/directory/michael-krische",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "keji-lai",
+    "name": "Lai Research Group @ UT Austin",
+    "displayName": "Lai Research Group @ UT Austin",
+    "facultyId": "keji-lai",
+    "department": "Physics",
+    "summary": "Research topics listed by UT include Energy, Nanoscience and Nanotechnology, Condensed Matter Physics.",
+    "areas": [
+      "Physics & Space"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://web2.ph.utexas.edu/~lailab/",
+    "publicationIds": [],
+    "sourceUrl": "https://physics.utexas.edu/directory/keji-lai",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "lambowitz",
+    "name": "Lambowitz Lab",
+    "displayName": "Lambowitz Lab",
+    "facultyId": "lambowitz",
+    "department": "Molecular Biosciences",
+    "summary": "Studies RNA and reverse transcriptases, developing tools to investigate biological processes and disease.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "RNA sequencing",
+      "Biochemistry",
+      "Molecular biology"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.utexas.edu/lambowitz/",
+    "publicationIds": [
+      "cancer-rna"
+    ],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/alan-lambowitz",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "lyndsay-logan-leach",
+    "name": null,
+    "displayName": "Lab website linked by Lyndsay Logan Leach",
+    "facultyId": "lyndsay-logan-leach",
+    "department": "Molecular Biosciences",
+    "summary": null,
+    "areas": [],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://sites.utexas.edu/lyndsayleach/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/lyndsay-leach",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "amy-lee",
+    "name": "Lee Lab",
+    "displayName": "Lee Lab",
+    "facultyId": "amy-lee",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, Learning and Memory, Health Promotion or Disease Prevention.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://www.cachannel.net/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/amy-lee",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "zhanfei-liu",
+    "name": "Liu Marine Organic Geochemistry Lab",
+    "displayName": "Liu Marine Organic Geochemistry Lab",
+    "facultyId": "zhanfei-liu",
+    "department": "Marine Science",
+    "summary": "Research topics listed by UT include Oceans and Freshwater, Marine Chemistry, Biogeochemistry.",
+    "areas": [
+      "Earth & Environment",
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://sites.utexas.edu/liu-lab/",
+    "publicationIds": [],
+    "sourceUrl": "https://marinescience.utexas.edu/directory/zhanfei-liu",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "gabriela-livas",
+    "name": "CAMINOS Lab",
+    "displayName": "CAMINOS Lab",
+    "facultyId": "gabriela-livas",
+    "department": "Human Development and Family Sciences",
+    "summary": "Research topics listed by UT include Culture, Inequality or Resilience, Relationships, Families and Youth, Human Development.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://www.caminoslab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://hdfs.utexas.edu/directory/gabriela-livas",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "marcotte",
+    "name": "Marcotte Lab",
+    "displayName": "Marcotte Lab",
+    "facultyId": "marcotte",
+    "department": "Molecular Biosciences",
+    "summary": "Studies how proteins work together, and how those connections can reveal the genetic causes of human disease.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing"
+    ],
+    "methods": [
+      "Proteomics",
+      "Bioinformatics",
+      "Systems biology"
+    ],
+    "setting": [
+      "Wet lab",
+      "Computational"
+    ],
+    "siteUrl": "https://www.marcottelab.org/index.php/Main_Page",
+    "publicationIds": [
+      "ancient-proteins"
+    ],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/edward-m-marcotte",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "michela-marinelli",
+    "name": "The Micky Marinelli Lab",
+    "displayName": "The Micky Marinelli Lab",
+    "facultyId": "michela-marinelli",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, Substance Use Disorders, Health Promotion or Disease Prevention.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.utexas.edu/marinelli/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/michela-marinelli",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "michael-thomas-marty",
+    "name": "Marty Lab Website",
+    "displayName": "Marty Lab Website",
+    "facultyId": "michael-thomas-marty",
+    "department": "Chemistry",
+    "summary": "Research topics listed by UT include Biochemistry, Analytical Chemistry, Physical Chemistry.",
+    "areas": [
+      "Life & Health",
+      "Physics & Space",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Computational"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://sites.utexas.edu/martylab/",
+    "publicationIds": [],
+    "sourceUrl": "https://chemistry.utexas.edu/directory/michael-marty",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "mikhail-v-matz",
+    "name": "Matz Lab",
+    "displayName": "Matz Lab",
+    "facultyId": "mikhail-v-matz",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Climate Change, Evolution, Biodiversity, Ecology or Sustainability.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Computational"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://matzlab.weebly.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/mikhail-matz",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "michael-mauk",
+    "name": "Mauk Lab Website",
+    "displayName": "Mauk Lab Website",
+    "facultyId": "michael-mauk",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, AI for Health or Computational Science, Learning and Memory.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing"
+    ],
+    "methods": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "siteUrl": "http://mauklab.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/michael-mauk",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "roy-d-mayfield",
+    "name": "Mayfield Lab",
+    "displayName": "Mayfield Lab",
+    "facultyId": "roy-d-mayfield",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, Substance Use Disorders, Molecular Biology, Genetics & Genomics.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.utexas.edu/mayfieldlab/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/roy-mayfield",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "jason-mclellan",
+    "name": "McLellan Lab",
+    "displayName": "McLellan Lab",
+    "facultyId": "jason-mclellan",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Vaccines and/or Therapeutics, Biophysics or Structural Biology, Infectious Disease, Immunology and Microbiology.",
+    "areas": [
+      "Life & Health",
+      "Physics & Space"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://www.mclellanlab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/jason-mclellan",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "robert-messing",
+    "name": "Messing Lab website",
+    "displayName": "Messing Lab website",
+    "facultyId": "robert-messing",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, Health Promotion or Disease Prevention, Substance Use Disorders.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.utexas.edu/messing-lab/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/robert-messing",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "vagheesh-m-narasimhan",
+    "name": "Narasimhan Lab",
+    "displayName": "Narasimhan Lab",
+    "facultyId": "vagheesh-m-narasimhan",
+    "department": "Statistics and Data Sciences",
+    "summary": "Research topics listed by UT include Statistics, Big Data or Machine Learning, Health Promotion or Disease Prevention, AI for Health or Computational Science.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Computational"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://vagheesh.github.io/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/vagheesh-m-narasimhan",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "robert-w-newberry",
+    "name": "The Newberry Lab at UT Austin",
+    "displayName": "The Newberry Lab at UT Austin",
+    "facultyId": "robert-w-newberry",
+    "department": "Chemistry",
+    "summary": "Research topics listed by UT include Biophysics or Structural Biology, Biochemistry, AI for Health or Computational Science.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Physics & Space",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Computational"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://www.newberrylab.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://chemistry.utexas.edu/directory/robert-newberry",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "kristin-nielsen",
+    "name": "Nielsen Lab",
+    "displayName": "Nielsen Lab",
+    "facultyId": "kristin-nielsen",
+    "department": "Marine Science",
+    "summary": "Research topics listed by UT include Biodiversity, Ecology or Sustainability, Oceans and Freshwater, Aquatic Toxicology.",
+    "areas": [
+      "Earth & Environment"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "http://nielsenlabut.weebly.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://marinescience.utexas.edu/directory/kristin-nielsen",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "hiroshi-nishiyama",
+    "name": "Nishiyama Lab Website",
+    "displayName": "Nishiyama Lab Website",
+    "facultyId": "hiroshi-nishiyama",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, Learning and Memory, Electrophys, Optogenetics & Chemogenetics.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://sites.utexas.edu/nishiyamalab/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/hiroshi-nishiyama",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "annette-m-ostling",
+    "name": "Ostling Lab",
+    "displayName": "Ostling Lab",
+    "facultyId": "annette-m-ostling",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include AI for Health or Computational Science, Statistics, Big Data or Machine Learning, Biodiversity, Ecology or Sustainability.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://sites.google.com/utexas.edu/ostlinglab/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/annette-ostling",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "tanya-t-paull",
+    "name": "Paull Lab",
+    "displayName": "Paull Lab",
+    "facultyId": "tanya-t-paull",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Biochemistry, Molecular Biology or Genetics, Molecular Biology, Genetics & Genomics.",
+    "areas": [
+      "Life & Health",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://www.paull-lab.org",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/tanya-t-paull",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "shelley-m-payne",
+    "name": "Payne Lab",
+    "displayName": "Payne Lab",
+    "facultyId": "shelley-m-payne",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Infectious Disease, Immunology and Microbiology, Microbiology, Immunology and Infectious Disease.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://sites.utexas.edu/paynelab/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/shelley-m-payne",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "nicole-perry",
+    "name": "Biospsychosocial Self-Regulation of Early Emotion and Cognition (BSEC) Lab",
+    "displayName": "Biospsychosocial Self-Regulation of Early Emotion and Cognition (BSEC) Lab",
+    "facultyId": "nicole-perry",
+    "department": "Human Development and Family Sciences",
+    "summary": "Research topics listed by UT include Relationships, Families and Youth, Human Development, Biobehavioral Processes and Health.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://www.bsec.he.utexas.edu/",
+    "publicationIds": [],
+    "sourceUrl": "https://hdfs.utexas.edu/directory/nicole-perry",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "steven-m-phelps",
+    "name": "Phelps Lab",
+    "displayName": "Phelps Lab",
+    "facultyId": "steven-m-phelps",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Evolution, Behavior and Neuroscience.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Computational"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "http://www.phelpslab.net/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/steven-phelps",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "jonathan-t-pierce",
+    "name": "Pierce Lab Website",
+    "displayName": "Pierce Lab Website",
+    "facultyId": "jonathan-t-pierce",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, Health Promotion or Disease Prevention, Substance Use Disorders.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.utexas.edu/piercelab/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/jonathan-pierce",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "natalie-shepherd-poulos",
+    "name": "Poulos Food Security Laboratory",
+    "displayName": "Poulos Food Security Laboratory",
+    "facultyId": "natalie-shepherd-poulos",
+    "department": "Nutritional Sciences",
+    "summary": "Research topics listed by UT include Nutrition or Obesity, Health Promotion or Disease Prevention, Maternal and Child Nutrition.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://sites.utexas.edu/foodsecuritylab/",
+    "publicationIds": [],
+    "sourceUrl": "https://nutrition.utexas.edu/directory/natalie-poulos",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "preston",
+    "name": "Preston Lab",
+    "displayName": "Preston Lab",
+    "facultyId": "preston",
+    "department": "Neuroscience",
+    "summary": "Investigates how the brain learns, connects experiences, and builds knowledge from childhood through adulthood.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing"
+    ],
+    "methods": [
+      "Brain imaging",
+      "fMRI",
+      "Computational modeling",
+      "Behavior"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://preston.clm.utexas.edu/",
+    "publicationIds": [
+      "memory-development"
+    ],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/alison-preston",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "nicholas-j-priebe",
+    "name": "Priebe Lab Website",
+    "displayName": "Priebe Lab Website",
+    "facultyId": "nicholas-j-priebe",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, AI for Health or Computational Science, Learning and Memory.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing"
+    ],
+    "methods": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://sites.utexas.edu/priebelab/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/nicholas-priebe",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "hong-qiao",
+    "name": "Qiao Lab",
+    "displayName": "Qiao Lab",
+    "facultyId": "hong-qiao",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Plant Biology, Molecular Biology, Genetics & Genomics, System and Synthetic Biology.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.utexas.edu/qiaolab/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/hong-qiao",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "emily-que",
+    "name": "The Que Lab",
+    "displayName": "The Que Lab",
+    "facultyId": "emily-que",
+    "department": "Chemistry",
+    "summary": "Research topics listed by UT include Health Promotion or Disease Prevention, Chemical Biology, Inorganic Chemistry.",
+    "areas": [
+      "Life & Health",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://quelab-utaustin.weebly.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://chemistry.utexas.edu/directory/emily-que",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "doran-raccah",
+    "name": "Mesoscience Lab",
+    "displayName": "Mesoscience Lab",
+    "facultyId": "doran-raccah",
+    "department": "Chemistry",
+    "summary": "Research topics listed by UT include Chemical Theory and Computation, Structural Biology and Biophysics, Physical Chemistry.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Physics & Space",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Computational"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://www.mesosciencelab.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://chemistry.utexas.edu/directory/doran-raccah",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "mark-g-raizen",
+    "name": "Raizen Lab",
+    "displayName": "Raizen Lab",
+    "facultyId": "mark-g-raizen",
+    "department": "Physics",
+    "summary": "Research topics listed by UT include Lasers.",
+    "areas": [],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://raizenlab.ph.utexas.edu/",
+    "publicationIds": [],
+    "sourceUrl": "https://physics.utexas.edu/directory/mark-raizen",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "susanne-ressl",
+    "name": "Ressl Lab Website",
+    "displayName": "Ressl Lab Website",
+    "facultyId": "susanne-ressl",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, Biophysics or Structural Biology, Biochemistry.",
+    "areas": [
+      "Life & Health",
+      "Physics & Space",
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://www.ressllab.org",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/susanne-ressl",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "timothy-e-riedel",
+    "name": "DIY Diagnostics Lab",
+    "displayName": "DIY Diagnostics Lab",
+    "facultyId": "timothy-e-riedel",
+    "department": "College of Natural Sciences",
+    "summary": "The official UT profile includes a research overview. Explore the source for the scientific questions and approaches described by this faculty member.",
+    "areas": [],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://diystream.cns.utexas.edu/",
+    "publicationIds": [],
+    "sourceUrl": "https://cns.utexas.edu/directory/timothy-riedel",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "michael-rose",
+    "name": "Rose Research Group",
+    "displayName": "Rose Research Group",
+    "facultyId": "michael-rose",
+    "department": "Chemistry",
+    "summary": "Research topics listed by UT include Energy, Materials Science, Chemical Biology.",
+    "areas": [
+      "Life & Health",
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://www.roseresearchgroup.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://chemistry.utexas.edu/directory/michael-rose",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "rick-russell",
+    "name": "Lab Info",
+    "displayName": "Lab Info",
+    "facultyId": "rick-russell",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Biochemistry, Molecular Biology or Genetics.",
+    "areas": [
+      "Life & Health",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.utexas.edu/russell-lab/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/rick-russell",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "michael-j-ryan",
+    "name": "The Ryan Lab",
+    "displayName": "The Ryan Lab",
+    "facultyId": "michael-j-ryan",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Evolution, Behavior and Neuroscience.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://sites.utexas.edu/the-ryan-lab/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/michael-ryan",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "devleena-samanta",
+    "name": "The Samanta Laboratory",
+    "displayName": "The Samanta Laboratory",
+    "facultyId": "devleena-samanta",
+    "department": "Chemistry",
+    "summary": "Research topics listed by UT include Nanoscience and Nanotechnology, Materials Science, Analytical Chemistry.",
+    "areas": [
+      "Life & Health",
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://devleenasamanta.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://chemistry.utexas.edu/directory/devleena-samanta",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "elif-sarinay-cenik",
+    "name": "Sarinay-Cenik Lab",
+    "displayName": "Sarinay-Cenik Lab",
+    "facultyId": "elif-sarinay-cenik",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Molecular Biology or Genetics, Computational Medicine or Computational Science, Human Development.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing"
+    ],
+    "methods": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://www.sarinayceniklab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/elif-sarinay-cenik",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "brian-e-sedio",
+    "name": "Sedio Lab at UT Austin",
+    "displayName": "Sedio Lab at UT Austin",
+    "facultyId": "brian-e-sedio",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Biodiversity, Ecology or Sustainability, Ecology and Global Change Biology, Microbial Ecology, Microbiomes and Disease.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Theoretical"
+    ],
+    "setting": [
+      "Theoretical"
+    ],
+    "siteUrl": "http://briansedio.weebly.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/brian-sedio",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "eyal-seidemann",
+    "name": "Seidemann lab",
+    "displayName": "Seidemann lab",
+    "facultyId": "eyal-seidemann",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, Electrophys, Optogenetics & Chemogenetics, Optical Imaging.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing"
+    ],
+    "methods": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://seidemannlab.site/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/eyal-seidemann",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "eric-senning",
+    "name": "Senning Lab",
+    "displayName": "Senning Lab",
+    "facultyId": "eric-senning",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Neuroscience, Molecular Biology, Genetics & Genomics, Electrophys, Optogenetics & Chemogenetics.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.utexas.edu/esenlab/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/eric-senning",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "chih-kang-shih",
+    "name": "Shih Lab research homepage",
+    "displayName": "Shih Lab research homepage",
+    "facultyId": "chih-kang-shih",
+    "department": "Physics",
+    "summary": "Research topics listed by UT include Materials Science, Nanoscience and Nanotechnology.",
+    "areas": [
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://web2.ph.utexas.edu/~nemrg/",
+    "publicationIds": [],
+    "sourceUrl": "https://physics.utexas.edu/directory/chih-kang-ken-shih",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "shelley-ann-sianta",
+    "name": "Sianta Lab",
+    "displayName": "Sianta Lab",
+    "facultyId": "shelley-ann-sianta",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Biodiversity, Ecology or Sustainability, Evolutionary Biology, Ecology and Global Change Biology.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://siantalab.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/shelley-sianta",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "stone",
+    "name": "Learning Agents Research Group",
+    "displayName": "Learning Agents Research Group",
+    "facultyId": "stone",
+    "department": "Computer Science",
+    "summary": "Builds intelligent agents that learn, interact, and act in the world, with research in robotics and multiagent systems.",
+    "areas": [
+      "Data & Computing"
+    ],
+    "methods": [
+      "Reinforcement learning",
+      "Robotics",
+      "Multiagent systems"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://www.cs.utexas.edu/~pstone/research.shtml",
+    "publicationIds": [],
+    "sourceUrl": "https://www.cs.utexas.edu/people/faculty-researchers/peter-stone",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "thibaud-olivier-taillefumier",
+    "name": "Math Neuro Taillefumier Lab",
+    "displayName": "Math Neuro Taillefumier Lab",
+    "facultyId": "thibaud-olivier-taillefumier",
+    "department": "Mathematics",
+    "summary": "Research topics listed by UT include AI for Health or Computational Science, Mathematics, Biodiversity, Ecology or Sustainability.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://sites.utexas.edu/mathneuro/",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/thibaud-taillefumier",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "david-william-taylor-jr",
+    "name": "Taylor Lab",
+    "displayName": "Taylor Lab",
+    "facultyId": "david-william-taylor-jr",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Biophysics or Structural Biology, Biochemistry, Structural Biology and Biophysics.",
+    "areas": [
+      "Life & Health",
+      "Physics & Space",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://davidtaylorlab.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/david-w-taylor",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "devarajan-thirumalai",
+    "name": "Thirumalai Lab",
+    "displayName": "Thirumalai Lab",
+    "facultyId": "devarajan-thirumalai",
+    "department": "Physics",
+    "summary": "Research topics listed by UT include Biophysics or Structural Biology, Chemical Biology, Physical Chemistry.",
+    "areas": [
+      "Life & Health",
+      "Physics & Space",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Theoretical"
+    ],
+    "setting": [
+      "Theoretical"
+    ],
+    "siteUrl": "https://sites.utexas.edu/thirumalai/",
+    "publicationIds": [],
+    "sourceUrl": "https://chemistry.utexas.edu/directory/devarajan-thirumalai",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "stefano-tiziani",
+    "name": "Tiziani Lab webpage",
+    "displayName": "Tiziani Lab webpage",
+    "facultyId": "stefano-tiziani",
+    "department": "Nutritional Sciences",
+    "summary": "Research topics listed by UT include Nutrition or Obesity, Biochemistry, Statistics, Big Data or Machine Learning.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://sites.google.com/view/tizianilab/home",
+    "publicationIds": [],
+    "sourceUrl": "https://nutrition.utexas.edu/directory/stefano-tiziani",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "keiko-torii",
+    "name": "Torii Lab",
+    "displayName": "Torii Lab",
+    "facultyId": "keiko-torii",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Molecular Biology or Genetics, Biophysics or Structural Biology, Biochemistry.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment",
+      "Physics & Space",
+      "Chemistry & Materials"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://www.plant-stomata.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/keiko-torii",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "maxim-tsoi",
+    "name": "TSOI LAB",
+    "displayName": "TSOI LAB",
+    "facultyId": "maxim-tsoi",
+    "department": "Physics",
+    "summary": "Research topics listed by UT include Nanoscience and Nanotechnology, Materials Science.",
+    "areas": [
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://web2.ph.utexas.edu/~tsoi/",
+    "publicationIds": [],
+    "sourceUrl": "https://physics.utexas.edu/directory/maxim-tsoi",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "steven-a-vokes",
+    "name": "Vokes Lab",
+    "displayName": "Vokes Lab",
+    "facultyId": "steven-a-vokes",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Cell and Developmental Biology, Molecular Biology, Genetics & Genomics.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://sites.utexas.edu/vokeslab/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/steven-a-vokes",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "john-b-wallingford",
+    "name": "Wallingford Lab",
+    "displayName": "Wallingford Lab",
+    "facultyId": "john-b-wallingford",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Molecular Biology or Genetics, Evolution, Cell and Developmental Biology.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Wet lab",
+      "Computational",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://www.wallingfordlab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/john-b-wallingford",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "andrew-duncan-weems",
+    "name": null,
+    "displayName": "Lab website linked by Andrew Duncan Weems",
+    "facultyId": "andrew-duncan-weems",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Cell and Developmental Biology, Molecular Biology, Genetics & Genomics, Optical Imaging.",
+    "areas": [
+      "Life & Health"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://www.theweemslab.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/andrew-d-weems",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "xuexin-wei",
+    "name": "B-B-C Lab",
+    "displayName": "B-B-C Lab",
+    "facultyId": "xuexin-wei",
+    "department": "Neuroscience",
+    "summary": "Research topics listed by UT include Artificial Intelligence and/or Robotics, AI for Health or Computational Science, Statistics, Big Data or Machine Learning.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing"
+    ],
+    "methods": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://sites.google.com/view/xxweineuraltheory/research",
+    "publicationIds": [],
+    "sourceUrl": "https://neuroscience.utexas.edu/directory/xuexin-wei",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "elizabeth-widen",
+    "name": "The Widen Lab",
+    "displayName": "The Widen Lab",
+    "facultyId": "elizabeth-widen",
+    "department": "Nutritional Sciences",
+    "summary": "Research topics listed by UT include Nutrition or Obesity, Human Development, Statistics, Big Data or Machine Learning.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing"
+    ],
+    "methods": [
+      "Computational"
+    ],
+    "setting": [
+      "Computational"
+    ],
+    "siteUrl": "https://sites.utexas.edu/widenlab/",
+    "publicationIds": [],
+    "sourceUrl": "https://nutrition.utexas.edu/directory/elizabeth-widen",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "claus-o-wilke",
+    "name": "The Wilke Lab",
+    "displayName": "The Wilke Lab",
+    "facultyId": "claus-o-wilke",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Evolution, Molecular Biology or Genetics, Genomics, Genetics and Development.",
+    "areas": [
+      "Life & Health",
+      "Data & Computing",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Wet lab",
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "setting": [
+      "Wet lab",
+      "Computational",
+      "Theoretical",
+      "Mixed methods"
+    ],
+    "siteUrl": "https://wilkelab.org/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/claus-wilke",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "amelia-wolf",
+    "name": "The Wolf Lab",
+    "displayName": "The Wolf Lab",
+    "facultyId": "amelia-wolf",
+    "department": "Integrative Biology",
+    "summary": "Research topics listed by UT include Biodiversity, Ecology or Sustainability, Ecology and Global Change Biology, Plant Biology.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://ameliawolf.weebly.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://integrativebio.utexas.edu/directory/amelia-wolf",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "arielle-woznica",
+    "name": "Woznica Lab Website",
+    "displayName": "Woznica Lab Website",
+    "facultyId": "arielle-woznica",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Molecular Biology or Genetics, Infectious Disease, Immunology and Microbiology, Evolution.",
+    "areas": [
+      "Life & Health",
+      "Earth & Environment"
+    ],
+    "methods": [
+      "Wet lab"
+    ],
+    "setting": [
+      "Wet lab"
+    ],
+    "siteUrl": "https://www.woznicalab.com/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/arielle-woznica",
+    "lastVerified": "2026-09-22"
+  },
+  {
+    "id": "yan-zhang",
+    "name": "Zhang Lab",
+    "displayName": "Zhang Lab",
+    "facultyId": "yan-zhang",
+    "department": "Molecular Biosciences",
+    "summary": "Research topics listed by UT include Biochemistry, Biophysics or Structural Biology, Structural Biology and Biophysics.",
+    "areas": [
+      "Life & Health",
+      "Physics & Space",
+      "Chemistry & Materials"
+    ],
+    "methods": [],
+    "setting": [],
+    "siteUrl": "https://sites.utexas.edu/zhanglab/",
+    "publicationIds": [],
+    "sourceUrl": "https://molecularbiosci.utexas.edu/directory/y-jessie-zhang",
+    "lastVerified": "2026-09-22"
+  }
+]

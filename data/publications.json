@@ -1,0 +1,460 @@
+[
+  {
+    "id": "ancient-proteins",
+    "title": "A protein interactome for the last eukaryotic common ancestor illuminates the biochemical basis of modern genetic diseases",
+    "authors": [
+      "Rachael M. Cox",
+      "Ophelia Papoulas",
+      "Shirlee Shril",
+      "Chanjae Lee",
+      "Tynan P. Gardner",
+      "Zoya T. Ansari",
+      "Anna M. Battenhouse",
+      "Muyoung Lee",
+      "Kevin Drew",
+      "Claire D. McWhite",
+      "David Yang",
+      "Janelle C. Leggere",
+      "Dannie Durand",
+      "Friedhelm Hildebrandt",
+      "John B. Wallingford",
+      "Edward M. Marcotte"
+    ],
+    "facultyIds": [
+      "marcotte"
+    ],
+    "journal": "Cell Genomics",
+    "date": "2026-06",
+    "datePrecision": "month",
+    "summary": "Protein networks conserved across species offer a way to investigate the genes involved in human disease.",
+    "doi": "10.1016/j.xgen.2026.101254",
+    "url": "https://doi.org/10.1016/j.xgen.2026.101254",
+    "sourceUrl": "https://api.crossref.org/works/10.1016/j.xgen.2026.101254",
+    "sourceLabel": "Crossref · publisher metadata",
+    "lastVerified": "2026-09-19",
+    "area": "Life & Health",
+    "department": "Molecular Biosciences",
+    "type": "Journal article",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "cancer-rna",
+    "title": "Pervasive enhanced transcription in inflammatory breast cancer tumors and PBMCs impacts RNA splicing and intronic RNAs in plasma",
+    "authors": [
+      "Dennis Wylie",
+      "Xiaoping Wang",
+      "Jun Yao",
+      "Hengyi Xu",
+      "Elizabeth A. Ferrick-Kiddie",
+      "Toshiaki Iwase",
+      "Savitri Krishnamurthy",
+      "Naoto T. Ueno",
+      "Alan M. Lambowitz"
+    ],
+    "facultyIds": [
+      "lambowitz"
+    ],
+    "journal": "Science Advances",
+    "date": "2026-05-01",
+    "datePrecision": "day",
+    "summary": "The study examines RNA patterns in tumors and blood that could help distinguish inflammatory breast cancer.",
+    "doi": "10.1126/sciadv.adu0031",
+    "url": "https://doi.org/10.1126/sciadv.adu0031",
+    "sourceUrl": "https://api.crossref.org/works/10.1126/sciadv.adu0031",
+    "sourceLabel": "Crossref · publisher metadata",
+    "lastVerified": "2026-09-19",
+    "area": "Life & Health",
+    "department": "Molecular Biosciences",
+    "type": "Journal article",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "doi-7241cf9db37f8048",
+    "title": "Prediction of eukaryotic cellular complexity in Asgard archaea using structural modelling",
+    "authors": [
+      "Stephan Köstlbacher",
+      "Jolien J. E. van Hooff",
+      "Kassiani Panagiotou",
+      "Daniel Tamarit",
+      "Valerie De Anda",
+      "Kathryn E. Appler",
+      "Brett J. Baker",
+      "Thijs J. G. Ettema"
+    ],
+    "facultyIds": [
+      "brett-j-baker"
+    ],
+    "journal": "Nature Microbiology",
+    "date": "2026-03-05",
+    "datePrecision": "day",
+    "doi": "10.1038/s41564-026-02273-y",
+    "url": "https://doi.org/10.1038/s41564-026-02273-y",
+    "sourceUrl": "https://api.crossref.org/works/10.1038/s41564-026-02273-y",
+    "lastVerified": "2026-09-22",
+    "summary": "This study uses models of biological structures to investigate cellular features in Asgard archaea, microbes relevant to understanding the origins of more complex cells.",
+    "summaryStatus": "Scope summary based on the verified publication title",
+    "area": "Life & Health",
+    "department": "Integrative Biology",
+    "type": "Journal article",
+    "verificationStatus": "verified",
+    "authorshipEvidence": [
+      {
+        "facultyId": "brett-j-baker",
+        "sourceUrl": "https://marinescience.utexas.edu/directory/brett-baker",
+        "matchedAuthor": "Brett J. Baker"
+      }
+    ]
+  },
+  {
+    "id": "planet-composition",
+    "title": "A Stellar magnesium to silicon ratio in the atmosphere of an exoplanet",
+    "authors": [
+      "Jorge A. Sanchez",
+      "Peter C. B. Smith",
+      "Krishna Kanumalla",
+      "Luis Welbanks",
+      "Michael R. Line",
+      "Stefan Pelletier",
+      "Steven Desch",
+      "Patrick Young",
+      "Jennifer Patience",
+      "Jacob Bean",
+      "Matteo Brogi",
+      "Dan Jaffe",
+      "Gregory N. Mace",
+      "Megan Weiner Mansfield",
+      "Vatsal Panwar",
+      "Vivien Parmentier",
+      "Lorenzo Pino",
+      "Arjun Baliga Savel",
+      "Lennart van Sluijs",
+      "Joost P. Wardenier"
+    ],
+    "facultyIds": [],
+    "journal": "Nature Communications",
+    "date": "2026-02-18",
+    "datePrecision": "day",
+    "summary": "Measurements of an exoplanet’s atmosphere test the chemical relationship between planets and their stars.",
+    "doi": "10.1038/s41467-026-69610-x",
+    "url": "https://doi.org/10.1038/s41467-026-69610-x",
+    "sourceUrl": "https://api.crossref.org/works/10.1038/s41467-026-69610-x",
+    "sourceLabel": "Crossref · publisher metadata",
+    "lastVerified": "2026-09-19",
+    "area": "Physics & Space",
+    "department": "Astronomy",
+    "type": "Journal article",
+    "verificationStatus": "verified",
+    "storyIds": [
+      "exoplanets"
+    ]
+  },
+  {
+    "id": "doi-14c90764afcf8b49",
+    "title": "Quantifying the Flushing Time of Major Coastal Bays in the Northern Gulf of Mexico from 20-Year Simulations",
+    "authors": [
+      "Jiabi Du",
+      "Kyeong Park",
+      "Kyle Wright",
+      "Xinping Hu",
+      "Amin Kiaghadi",
+      "Caimee Schoenbaechler",
+      "Junwei Hua"
+    ],
+    "facultyIds": [
+      "xinping-hu"
+    ],
+    "journal": "Estuaries and Coasts",
+    "date": "2025-12-15",
+    "datePrecision": "day",
+    "doi": "10.1007/s12237-025-01648-4",
+    "url": "https://doi.org/10.1007/s12237-025-01648-4",
+    "sourceUrl": "https://api.crossref.org/works/10.1007/s12237-025-01648-4",
+    "lastVerified": "2026-09-22",
+    "summary": "Computer simulations estimate how quickly water is replaced in 13 coastal bays. The study examines how tides, winds, and freshwater flow affect the movement of water and material through these ecosystems.",
+    "summaryStatus": "Reviewed publisher abstract via Crossref",
+    "area": "Earth & Environment",
+    "department": "Marine Science",
+    "type": "Journal article",
+    "verificationStatus": "verified",
+    "authorshipEvidence": [
+      {
+        "facultyId": "xinping-hu",
+        "sourceUrl": "https://marinescience.utexas.edu/directory/xinping-hu",
+        "matchedAuthor": "Xinping Hu"
+      }
+    ]
+  },
+  {
+    "id": "doi-dd9ac3bfa754900d",
+    "title": "A tri-national initiative to advance understanding of coastal and ocean acidification in the Gulf of Mexico/Gulf of America",
+    "authors": [
+      "Emily R. Hall",
+      "Xinping Hu",
+      "Jennifer Vreeland-Dawson",
+      "Kimberly K. Yates",
+      "Mark Besonen",
+      "Jorge Brenner",
+      "Leticia Barbero",
+      "Sharon Z. Herzka",
+      "Jose Martín Hernández-Ayon",
+      "Nuno Simoes",
+      "Patricia González-Díaz"
+    ],
+    "facultyIds": [
+      "sharon-zinah-herzka"
+    ],
+    "journal": "Frontiers in Marine Science",
+    "date": "2025-10-22",
+    "datePrecision": "day",
+    "doi": "10.3389/fmars.2025.1676610",
+    "url": "https://doi.org/10.3389/fmars.2025.1676610",
+    "sourceUrl": "https://api.crossref.org/works/10.3389/fmars.2025.1676610",
+    "lastVerified": "2026-09-22",
+    "summary": "Scientists from Cuba, Mexico, and the United States outline shared priorities for studying increasing acidity in coastal and ocean waters, including coordinated monitoring and methods for comparing observations.",
+    "summaryStatus": "Reviewed publisher abstract via Crossref",
+    "area": "Life & Health",
+    "department": "Marine Science",
+    "type": "Journal article",
+    "verificationStatus": "verified",
+    "authorshipEvidence": [
+      {
+        "facultyId": "sharon-zinah-herzka",
+        "sourceUrl": "https://marinescience.utexas.edu/directory/sharon-z-herzka",
+        "matchedAuthor": "Sharon Z. Herzka"
+      }
+    ]
+  },
+  {
+    "id": "doi-e0d90ee2f5a63539",
+    "title": "How to prevent physical punishment that harms children",
+    "authors": [
+      "Jorge Cuartas",
+      "Elizabeth T. Gershoff"
+    ],
+    "facultyIds": [
+      "elizabeth-thompson-gershoff"
+    ],
+    "journal": "Nature Mental Health",
+    "date": "2025-08-20",
+    "datePrecision": "day",
+    "doi": "10.1038/s44220-025-00485-5",
+    "url": "https://doi.org/10.1038/s44220-025-00485-5",
+    "sourceUrl": "https://api.crossref.org/works/10.1038/s44220-025-00485-5",
+    "lastVerified": "2026-09-22",
+    "summary": "This article addresses how to prevent physical punishment that harms children. Follow the publication link to read the authors’ discussion and evidence.",
+    "summaryStatus": "Scope summary based on the verified publication title",
+    "area": "Life & Health",
+    "department": "Human Development and Family Sciences",
+    "type": "Journal article",
+    "verificationStatus": "verified",
+    "authorshipEvidence": [
+      {
+        "facultyId": "elizabeth-thompson-gershoff",
+        "sourceUrl": "https://hdfs.utexas.edu/directory/elizabeth-gershoff",
+        "matchedAuthor": "Elizabeth T. Gershoff"
+      }
+    ]
+  },
+  {
+    "id": "doi-3f48cda268cdb4ef",
+    "title": "Parallel sensory compensation following independent subterranean colonization by groundwater salamanders ( Eurycea )",
+    "authors": [
+      "Ruben U. Tovar",
+      "Brittany A. Dobbins",
+      "Nicholas R. Hartman",
+      "Sheena Leelani",
+      "Thomas J. Devitt",
+      "Dana M. García",
+      "Paul M. Gignac",
+      "David C. Cannatella",
+      "David M. Hillis"
+    ],
+    "facultyIds": [
+      "tom-james-devitt"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences",
+    "date": "2025-06-03",
+    "datePrecision": "day",
+    "doi": "10.1073/pnas.2504850122",
+    "url": "https://doi.org/10.1073/pnas.2504850122",
+    "sourceUrl": "https://api.crossref.org/works/10.1073/pnas.2504850122",
+    "lastVerified": "2026-09-22",
+    "summary": "Texas salamanders that adapted to life underground show repeated changes in their senses: reduced eye development alongside expanded systems for detecting movement in water. The study explores how these changes evolved together.",
+    "summaryStatus": "Reviewed publisher abstract via Crossref",
+    "area": "Life & Health",
+    "department": "College of Natural Sciences",
+    "type": "Journal article",
+    "verificationStatus": "verified",
+    "authorshipEvidence": [
+      {
+        "facultyId": "tom-james-devitt",
+        "sourceUrl": "https://cns.utexas.edu/directory/tom-devitt",
+        "matchedAuthor": "Thomas J. Devitt"
+      }
+    ]
+  },
+  {
+    "id": "memory-development",
+    "title": "Differentiation of Related Events in Hippocampus Supports Memory Reinstatement in Development",
+    "authors": [
+      "Nicole L. Varga",
+      "Hannah E. Roome",
+      "Robert J. Molitor",
+      "Lucia Martinez",
+      "Elizabeth M. Hipskind",
+      "Michael L. Mack",
+      "Alison R. Preston",
+      "Margaret L. Schlichting"
+    ],
+    "facultyIds": [
+      "preston"
+    ],
+    "journal": "Journal of Cognitive Neuroscience",
+    "date": "2025-04-01",
+    "datePrecision": "day",
+    "summary": "Brain imaging examines how children and adults represent and recall related experiences.",
+    "doi": "10.1162/jocn_a_02299",
+    "url": "https://doi.org/10.1162/jocn_a_02299",
+    "sourceUrl": "https://api.crossref.org/works/10.1162/jocn_a_02299",
+    "sourceLabel": "Crossref · publisher metadata",
+    "lastVerified": "2026-09-19",
+    "area": "Life & Health",
+    "department": "Neuroscience",
+    "type": "Journal article",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "green-coupling",
+    "title": "Aryl halide cross-coupling via formate-mediated transfer hydrogenation",
+    "authors": [
+      "Yoon Cho",
+      "Yu-Hsiang Chang",
+      "Kevin P. Quirion",
+      "Zachary H. Strong",
+      "Zachary J. Dubey",
+      "Nam Nguyen",
+      "Seoyoung Lee",
+      "Natalie S. Taylor",
+      "Jessica M. Hoover",
+      "Nicholas A. White",
+      "Peng Liu",
+      "Michael J. Krische"
+    ],
+    "facultyIds": [
+      "krische"
+    ],
+    "journal": "Nature Chemistry",
+    "date": "2025-03-11",
+    "datePrecision": "day",
+    "summary": "A chemical coupling approach uses formate to help connect carbon-containing molecules.",
+    "doi": "10.1038/s41557-024-01729-0",
+    "url": "https://doi.org/10.1038/s41557-024-01729-0",
+    "sourceUrl": "https://api.crossref.org/works/10.1038/s41557-024-01729-0",
+    "sourceLabel": "Crossref · publisher metadata",
+    "lastVerified": "2026-09-19",
+    "area": "Chemistry & Materials",
+    "department": "Chemistry",
+    "type": "Journal article",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "doi-6e01bfb61d89174e",
+    "title": "The Role of Dialect, Gender, and Race in Children’s Friendship Choices: Evidence from Mexican Monolinguals and Mexican-American Bilinguals",
+    "authors": [
+      "Maria M. Arredondo",
+      "Marissa Vasquez Martinez",
+      "Liliana Beltran",
+      "Claudia Méndez López",
+      "Susan A. Gelman"
+    ],
+    "facultyIds": [
+      "maria-mercedes-arredondo"
+    ],
+    "journal": "Journal of Cognition and Development",
+    "date": "2025-03-02",
+    "datePrecision": "day",
+    "doi": "10.1080/15248372.2025.2470239",
+    "url": "https://doi.org/10.1080/15248372.2025.2470239",
+    "sourceUrl": "https://api.crossref.org/works/10.1080/15248372.2025.2470239",
+    "lastVerified": "2026-09-22",
+    "summary": "This study explores how dialect, gender, and race relate to children’s friendship choices, focusing on children who speak Spanish in Mexico and bilingual Mexican-American children.",
+    "summaryStatus": "Scope summary based on the verified publication title",
+    "area": "Life & Health",
+    "department": "Human Development and Family Sciences",
+    "type": "Journal article",
+    "verificationStatus": "verified",
+    "authorshipEvidence": [
+      {
+        "facultyId": "maria-mercedes-arredondo",
+        "sourceUrl": "https://hdfs.utexas.edu/directory/maria-arredondo",
+        "matchedAuthor": "Maria M. Arredondo"
+      }
+    ]
+  },
+  {
+    "id": "doi-c4095f3cbdbda517",
+    "title": "Intergenerational Relationships and Family Support: Evidence for Health and Well-Being in Studies Supported by the National Institute on Aging",
+    "authors": [
+      "Merril Silverstein",
+      "Karen L Fingerman",
+      "J Jill Suitor"
+    ],
+    "facultyIds": [
+      "karen-l-fingerman"
+    ],
+    "journal": "The Gerontologist",
+    "date": "2025-01-09",
+    "datePrecision": "day",
+    "doi": "10.1093/geront/gnaf003",
+    "url": "https://doi.org/10.1093/geront/gnaf003",
+    "sourceUrl": "https://api.crossref.org/works/10.1093/geront/gnaf003",
+    "lastVerified": "2026-09-22",
+    "summary": "This review brings together research on relationships across generations and the support families provide to older adults. It examines connections between family ties, health, and well-being.",
+    "summaryStatus": "Reviewed publisher abstract via Crossref",
+    "area": "Life & Health",
+    "department": "Human Development and Family Sciences",
+    "type": "Journal article",
+    "verificationStatus": "verified",
+    "authorshipEvidence": [
+      {
+        "facultyId": "karen-l-fingerman",
+        "sourceUrl": "https://hdfs.utexas.edu/directory/karen-fingerman",
+        "matchedAuthor": "Karen L Fingerman"
+      }
+    ]
+  },
+  {
+    "id": "doi-22d9d57b7e1870ea",
+    "title": "Spare the dog, hit the child: Preliminary findings regarding parents’ beliefs about spanking and hitting children.",
+    "authors": [
+      "Elizabeth T. Gershoff",
+      "Shawna J. Lee",
+      "Joyce Y. Lee",
+      "Olivia D. Chang",
+      "Catherine A. Taylor"
+    ],
+    "facultyIds": [
+      "elizabeth-thompson-gershoff"
+    ],
+    "journal": "Psychology of Violence",
+    "date": "2025-01",
+    "datePrecision": "month",
+    "doi": "10.1037/vio0000535",
+    "url": "https://doi.org/10.1037/vio0000535",
+    "sourceUrl": "https://api.crossref.org/works/10.1037/vio0000535",
+    "lastVerified": "2026-09-22",
+    "summary": "This paper presents preliminary research on parents’ beliefs about spanking and hitting children. Read the original publication for the study’s methods, findings, and limits.",
+    "summaryStatus": "Scope summary based on the verified publication title",
+    "area": "Life & Health",
+    "department": "Human Development and Family Sciences",
+    "type": "Journal article",
+    "verificationStatus": "verified",
+    "authorshipEvidence": [
+      {
+        "facultyId": "elizabeth-thompson-gershoff",
+        "sourceUrl": "https://hdfs.utexas.edu/directory/elizabeth-gershoff",
+        "matchedAuthor": "Elizabeth T. Gershoff"
+      }
+    ]
+  }
+]

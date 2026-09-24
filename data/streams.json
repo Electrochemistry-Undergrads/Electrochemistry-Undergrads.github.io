@@ -1,0 +1,332 @@
+[
+  {
+    "id": "alternative-antibiotics",
+    "name": "Alternative Antibiotics",
+    "url": "https://fri.cns.utexas.edu/research-streams/alternative-antibiotics",
+    "sourceUrl": "https://fri.cns.utexas.edu/research-streams/alternative-antibiotics",
+    "lastVerified": "2026-09-20",
+    "summary": "Investigate antimicrobial peptides by engineering and screening peptide libraries for activity against model organisms.",
+    "verificationStatus": "verified",
+    "announced": true
+  },
+  {
+    "id": "aptamer",
+    "name": "Aptamer",
+    "url": "https://fri.cns.utexas.edu/aptamer",
+    "sourceUrl": "https://fri.cns.utexas.edu/aptamer",
+    "lastVerified": "2026-09-20",
+    "summary": "Develop short nucleic-acid molecules that bind selected targets, with potential uses in diagnostics, treatments, and molecular sensors.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "autonomous-robots",
+    "name": "Autonomous Robots",
+    "url": "https://fri.cns.utexas.edu/autonomous-robots",
+    "sourceUrl": "https://fri.cns.utexas.edu/autonomous-robots",
+    "lastVerified": "2026-09-20",
+    "summary": "Study how service robots navigate around people and interpret the meaning of places in homes and offices.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "behavioral-neuroscience",
+    "name": "Behavioral Neuroscience",
+    "url": "https://fri.cns.utexas.edu/behavioral-neuroscience",
+    "sourceUrl": "https://fri.cns.utexas.edu/behavioral-neuroscience",
+    "lastVerified": "2026-09-20",
+    "summary": "Use fruit flies to investigate how genes and neural circuits shape learning, memory, and behavior.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "big-data-biology",
+    "name": "Big Data in Biology",
+    "url": "https://fri.cns.utexas.edu/big-data-biology",
+    "sourceUrl": "https://fri.cns.utexas.edu/big-data-biology",
+    "lastVerified": "2026-09-20",
+    "summary": "Use programming, statistics, and visualization to find biological patterns in large DNA and RNA sequencing datasets.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "biobricks",
+    "name": "Biobricks",
+    "url": "https://fri.cns.utexas.edu/biobricks",
+    "sourceUrl": "https://fri.cns.utexas.edu/biobricks",
+    "lastVerified": "2026-09-20",
+    "summary": "Investigate protein function using molecular cloning, protein expression, and biochemical experiments.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "biodiversity-discovery",
+    "name": "Biodiversity Discovery",
+    "url": "https://fri.cns.utexas.edu/biodiversity-discovery",
+    "sourceUrl": "https://fri.cns.utexas.edu/biodiversity-discovery",
+    "lastVerified": "2026-09-20",
+    "summary": "Explore biodiversity and evolution, especially in amphibians and reptiles, through fieldwork, specimens, and laboratory analysis.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "biomanufacturing",
+    "name": "Biomanufacturing",
+    "url": "https://fri.cns.utexas.edu/biomanufacturing",
+    "sourceUrl": "https://fri.cns.utexas.edu/biomanufacturing",
+    "lastVerified": "2026-09-20",
+    "summary": "Investigate how engineered bacteria can produce and release useful small proteins more efficiently.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "biopowerhouses",
+    "name": "BioPowerhouses",
+    "url": "https://fri.cns.utexas.edu/Biopowerhouses",
+    "sourceUrl": "https://fri.cns.utexas.edu/Biopowerhouses",
+    "lastVerified": "2026-09-20",
+    "summary": "Study mitochondria through laboratory measurements of cellular function and computational comparisons of their genomes.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "bioprospecting",
+    "name": "Bioprospecting",
+    "url": "https://fri.cns.utexas.edu/bioprospecting",
+    "sourceUrl": "https://fri.cns.utexas.edu/bioprospecting",
+    "lastVerified": "2026-09-20",
+    "summary": "Explore useful natural products, plant responses to stress, and microbes that interact with or break down plastics.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "bugs-bugs",
+    "name": "Bugs in Bugs",
+    "url": "https://fri.cns.utexas.edu/bugs-bugs",
+    "sourceUrl": "https://fri.cns.utexas.edu/bugs-bugs",
+    "lastVerified": "2026-09-20",
+    "summary": "Investigate which bacteria live with insects, how they interact, and whether they help or harm their hosts.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "computational-materials",
+    "name": "Computational Materials",
+    "url": "https://fri.cns.utexas.edu/computational-materials",
+    "sourceUrl": "https://fri.cns.utexas.edu/computational-materials",
+    "lastVerified": "2026-09-20",
+    "summary": "Use simulations and artificial intelligence to investigate battery materials, fuel-cell catalysts, and material properties.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "discovering-signals",
+    "name": "Discovering Signals",
+    "url": "https://fri.cns.utexas.edu/discovering-signals",
+    "sourceUrl": "https://fri.cns.utexas.edu/discovering-signals",
+    "lastVerified": "2026-09-20",
+    "summary": "Investigate how extracellular ATP signals influence plant growth, using Arabidopsis root hairs and genetic experiments.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "diy-diagnostics",
+    "name": "DIY Diagnostics",
+    "url": "https://fri.cns.utexas.edu/diy-diagnostics",
+    "sourceUrl": "https://fri.cns.utexas.edu/diy-diagnostics",
+    "lastVerified": "2026-09-20",
+    "summary": "Combine biology, chemistry, electronics, and programming to prototype accessible diagnostic tools.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "evodevomics",
+    "name": "EvoDevOmics",
+    "url": "https://fri.cns.utexas.edu/evodevomics",
+    "sourceUrl": "https://fri.cns.utexas.edu/evodevomics",
+    "lastVerified": "2026-09-20",
+    "summary": "Use genomic and gene-expression data to study how evolutionary changes produce differences in organisms’ traits.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "fish-behavior",
+    "name": "Fish Behavior",
+    "url": "https://fri.cns.utexas.edu/fish-behavior",
+    "sourceUrl": "https://fri.cns.utexas.edu/fish-behavior",
+    "lastVerified": "2026-09-20",
+    "summary": "Test how social environments influence fish behavior, including learning, exploration, aggression, and mate choice.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "gene-networks",
+    "name": "Gene Networks",
+    "url": "https://fri.cns.utexas.edu/gene-networks",
+    "sourceUrl": "https://fri.cns.utexas.edu/gene-networks",
+    "lastVerified": "2026-09-20",
+    "summary": "Study protein–RNA complexes that help regulate gene expression, including proteins that reshape these complexes.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "glow-worms",
+    "name": "Glow Worms",
+    "url": "https://fri.cns.utexas.edu/glow-worms",
+    "sourceUrl": "https://fri.cns.utexas.edu/glow-worms",
+    "lastVerified": "2026-09-20",
+    "summary": "Use the nematode C. elegans to investigate how cells organize themselves during embryonic development.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "igem-ari-stream",
+    "name": "iGEM",
+    "url": "https://fri.cns.utexas.edu/iGEM-ARI-Stream",
+    "sourceUrl": "https://fri.cns.utexas.edu/iGEM-ARI-Stream",
+    "lastVerified": "2026-09-20",
+    "summary": "Develop a collaborative synthetic-biology project, building laboratory and communication skills around the iGEM competition timeline.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "magnetic-matter",
+    "name": "Magnetic Matter",
+    "url": "https://fri.cns.utexas.edu/magnetic-matter",
+    "sourceUrl": "https://fri.cns.utexas.edu/magnetic-matter",
+    "lastVerified": "2026-09-20",
+    "summary": "Synthesize and characterize materials, including superconductors, to investigate their physical and magnetic properties.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "materials-color",
+    "name": "Materials in Color",
+    "url": "https://fri.cns.utexas.edu/materials-color",
+    "sourceUrl": "https://fri.cns.utexas.edu/materials-color",
+    "lastVerified": "2026-09-20",
+    "summary": "Study how the chemical structures of dyes affect their interaction with light and their ability to initiate useful reactions.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "microbe-hackers",
+    "name": "Microbe Hackers",
+    "url": "https://fri.cns.utexas.edu/microbe-hackers",
+    "sourceUrl": "https://fri.cns.utexas.edu/microbe-hackers",
+    "lastVerified": "2026-09-20",
+    "summary": "Design and test genetic changes in bacteria to investigate new functions and the stability of engineered biological systems.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "plant-pathways",
+    "name": "Plant Pathways",
+    "url": "https://fri.cns.utexas.edu/plant-pathways",
+    "sourceUrl": "https://fri.cns.utexas.edu/plant-pathways",
+    "lastVerified": "2026-09-20",
+    "summary": "Investigate the genetics controlling plant surface traits such as pigments, leaf hairs, and seed development.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "peptide-therapeutics-ari",
+    "name": "Peptide Therapeutics - ARI",
+    "url": "https://fri.cns.utexas.edu/research-streams/peptide-therapeutics-ari",
+    "sourceUrl": "https://fri.cns.utexas.edu/research-streams/peptide-therapeutics-ari",
+    "lastVerified": "2026-09-20",
+    "summary": "Design and test peptides that interact with misfolded proteins, exploring approaches to protein-misfolding diseases.",
+    "verificationStatus": "verified",
+    "announced": true
+  },
+  {
+    "id": "practical-sensors-ari",
+    "name": "Practical Sensors",
+    "url": "https://fri.cns.utexas.edu/practical-sensors-ari",
+    "sourceUrl": "https://fri.cns.utexas.edu/practical-sensors-ari",
+    "lastVerified": "2026-09-20",
+    "summary": "Develop practical ways to detect and measure molecules, adapting analytical sensing methods and devices.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "quantum-computing",
+    "name": "Quantum Computing",
+    "url": "https://fri.cns.utexas.edu/quantum-computing",
+    "sourceUrl": "https://fri.cns.utexas.edu/quantum-computing",
+    "lastVerified": "2026-09-20",
+    "summary": "Explore quantum states, communication, algorithms, and error correction through mathematical models and Python.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "robot-learning",
+    "name": "Robot Learning",
+    "url": "https://fri.cns.utexas.edu/robot-learning",
+    "sourceUrl": "https://fri.cns.utexas.edu/robot-learning",
+    "lastVerified": "2026-09-20",
+    "summary": "Investigate how machine learning can help robots interact with the physical world and develop more general capabilities.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "supra-sensors",
+    "name": "Supra Sensors",
+    "url": "https://fri.cns.utexas.edu/supra-sensors",
+    "sourceUrl": "https://fri.cns.utexas.edu/supra-sensors",
+    "lastVerified": "2026-09-20",
+    "summary": "Use chemical sensing and statistical analysis to investigate the composition of biological samples, including wine and plants.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "sustainable-fashion-materials",
+    "name": "Sustainable Fashion Materials",
+    "url": "https://fri.cns.utexas.edu/sustainable-fashion-materials",
+    "sourceUrl": "https://fri.cns.utexas.edu/sustainable-fashion-materials",
+    "lastVerified": "2026-09-20",
+    "summary": "Experiment with biomaterials and product prototypes to explore alternatives to petroleum-based fashion materials.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "urban-ecosystems",
+    "name": "Urban Ecosystems",
+    "url": "https://fri.cns.utexas.edu/urban-ecosystems",
+    "sourceUrl": "https://fri.cns.utexas.edu/urban-ecosystems",
+    "lastVerified": "2026-09-20",
+    "summary": "Study contaminants, organisms, and ecosystem change in urban waterways, including Waller Creek on the UT campus.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "virtual-cures",
+    "name": "Virtual Cures",
+    "url": "https://fri.cns.utexas.edu/virtual-cures",
+    "sourceUrl": "https://fri.cns.utexas.edu/virtual-cures",
+    "lastVerified": "2026-09-20",
+    "summary": "Combine computational screening of molecules with laboratory protein experiments to investigate potential drug candidates.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "white-dwarf-stars",
+    "name": "White Dwarf Stars",
+    "url": "https://fri.cns.utexas.edu/white-dwarf-stars",
+    "sourceUrl": "https://fri.cns.utexas.edu/white-dwarf-stars",
+    "lastVerified": "2026-09-20",
+    "summary": "Study stars with astronomical data, stellar simulations, and laboratory astrophysics, using programming and data analysis.",
+    "verificationStatus": "verified",
+    "announced": false
+  },
+  {
+    "id": "x-plants",
+    "name": "X-Plants",
+    "url": "https://fri.cns.utexas.edu/x-plants",
+    "sourceUrl": "https://fri.cns.utexas.edu/x-plants",
+    "lastVerified": "2026-09-20",
+    "summary": "Investigate perennial-grass biology through mutant plants, genomic analysis, and field or greenhouse observations.",
+    "verificationStatus": "verified",
+    "announced": false
+  }
+]

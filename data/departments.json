@@ -1,0 +1,138 @@
+[
+  {
+    "id": "astronomy",
+    "name": "Astronomy",
+    "catalogLabel": "Department of Astronomy",
+    "count": 24,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "biology-instruction-office",
+    "name": "Biology Instruction Office",
+    "catalogLabel": "Biology Instruction Office",
+    "count": 56,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "chemistry",
+    "name": "Chemistry",
+    "catalogLabel": "Department of Chemistry",
+    "count": 42,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "college-of-natural-sciences",
+    "name": "College of Natural Sciences",
+    "catalogLabel": "College of Natural Sciences",
+    "count": 57,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "computer-science",
+    "name": "Computer Science",
+    "catalogLabel": "Department of Computer Science",
+    "count": 97,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "human-development-and-family-sciences",
+    "name": "Human Development and Family Sciences",
+    "catalogLabel": "Department of Human Development and Family Sciences",
+    "count": 30,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "integrative-biology",
+    "name": "Integrative Biology",
+    "catalogLabel": "Department of Integrative Biology",
+    "count": 40,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "marine-science",
+    "name": "Marine Science",
+    "catalogLabel": "Department of Marine Science",
+    "count": 20,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "mathematics",
+    "name": "Mathematics",
+    "catalogLabel": "Department of Mathematics",
+    "count": 98,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "molecular-biosciences",
+    "name": "Molecular Biosciences",
+    "catalogLabel": "Department of Molecular Biosciences",
+    "count": 62,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "neuroscience",
+    "name": "Neuroscience",
+    "catalogLabel": "Department of Neuroscience",
+    "count": 31,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "nutritional-sciences",
+    "name": "Nutritional Sciences",
+    "catalogLabel": "Department of Nutritional Sciences",
+    "count": 26,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "physics",
+    "name": "Physics",
+    "catalogLabel": "Department of Physics",
+    "count": 72,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "school-of-human-ecology",
+    "name": "School of Human Ecology",
+    "catalogLabel": "School of Human Ecology",
+    "count": 11,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "statistics-and-data-sciences",
+    "name": "Statistics and Data Sciences",
+    "catalogLabel": "Department of Statistics and Data Sciences",
+    "count": 39,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "textiles-and-apparel",
+    "name": "Textiles and Apparel",
+    "catalogLabel": "Division of Textiles and Apparel",
+    "count": 10,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  },
+  {
+    "id": "uteach-natural-sciences",
+    "name": "UTeach-Natural Sciences",
+    "catalogLabel": "UTeach-Natural Sciences",
+    "count": 10,
+    "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
+    "lastVerified": "2026-09-23"
+  }
+]

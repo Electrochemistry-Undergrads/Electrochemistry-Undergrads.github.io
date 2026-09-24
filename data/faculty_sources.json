@@ -3190,6 +3190,12 @@
         "url": "https://www.cs.utexas.edu/people/faculty-researchers/swarat-chaudhuri",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://www.cs.utexas.edu/~swarat/bio.html",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -3244,6 +3250,12 @@
         "url": "https://physics.utexas.edu/directory/hsin-yu-chen",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://cns.utexas.edu/news/research/ut-scientists-help-measure-universes-expansion-gravitational-waves",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -3336,6 +3348,12 @@
         "url": "https://doi.org/10.1016/j.biombioe.2017.03.024",
         "status": "linked_from_official_profile",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://txa.utexas.edu/news/features/txa-faculty-spotlight-dr-jonathan-chen",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -3382,6 +3400,12 @@
         "url": "https://math.utexas.edu/directory/thomas-chen",
         "status": "verified_section",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://amg.oden.utexas.edu/members/thomas-chen/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -3468,6 +3492,12 @@
         "url": "https://ui.adsabs.harvard.edu/public-libraries/umpwqRBVS6uzXxy5OA-eiw",
         "status": "linked_from_official_profile",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://mcdonaldobservatory.org/news/releases/20230719",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -3542,6 +3572,12 @@
         "url": "https://math.utexas.edu/directory/mirela-ciperiani",
         "status": "verified_section",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://web.ma.utexas.edu/users/mirela/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -3604,6 +3640,12 @@
         "url": "https://physics.utexas.edu/directory/william-coker",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://web2.ph.utexas.edu/~coker2/coker.html",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -3665,6 +3707,12 @@
         "status": "retrieved",
         "lastVerified": "2026-09-22",
         "relationshipSource": "https://neuroscience.utexas.edu/directory/laura-colgin"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://experts.utexas.edu/laura_colgin",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -3685,6 +3733,12 @@
         "url": "https://nutrition.utexas.edu/directory/elza-conn",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://nutrition.utexas.edu/community-engagement/summer-camps",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -3719,6 +3773,12 @@
         "url": "https://math.utexas.edu/directory/anthony-conway",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://sites.google.com/view/anthony-conway/home",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -3847,6 +3907,12 @@
         "url": "https://math.utexas.edu/directory/jeffrey-danciger",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://web.ma.utexas.edu/users/jdanciger/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -3892,6 +3958,12 @@
         "url": "https://daolab.weebly.com/publications.html",
         "status": "retrieved",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://daolab.weebly.com/team.html",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -3937,6 +4009,12 @@
         "url": "https://bwdaviesutaustin.org/here-bwdaviesutaustin/?page_id=30",
         "status": "retrieved",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://cns.utexas.edu/news/battling-invincible-microbes-takes-fight-to-the-silver-screen",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -4188,6 +4266,12 @@
         "url": "https://physics.utexas.edu/directory/diego-del-castillo-negrete",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://news.utexas.edu/2026/08/31/fusion-energy-seed-grants-launch-new-interdisciplinary-collaborations-at-ut-austin/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -4208,6 +4292,12 @@
         "url": "https://math.utexas.edu/directory/matias-delgadino",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://web.ma.utexas.edu/users/mgd885/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -4234,6 +4324,12 @@
         "url": "https://physics.utexas.edu/directory/alexander-demkov",
         "status": "verified_section",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://web2.ph.utexas.edu/~aadg/people.html",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -4286,6 +4382,18 @@
         "url": "https://doi.org/10.1073/pnas.1815014116.",
         "status": "linked_from_official_profile",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://integrativebio.utexas.edu/directory/tom-devitt",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://fri.cns.utexas.edu/research-streams/biodiversity-discovery",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -4306,6 +4414,12 @@
         "url": "https://www.cs.utexas.edu/people/faculty-researchers/inderjit-dhillon",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://www.cs.utexas.edu/~inderjit/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -4359,6 +4473,12 @@
         "status": "retrieved",
         "lastVerified": "2026-09-22",
         "relationshipSource": "https://molecularbiosci.utexas.edu/directory/daniel-j-dickinson"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://utdickinsonlab.org/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -4393,6 +4513,12 @@
         "url": "https://astronomy.utexas.edu/directory/harriet-dinerstein",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://mcdonaldobservatory.org/research/astronomers/dinerstein",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -4433,6 +4559,12 @@
         "url": "https://physics.utexas.edu/directory/jacques-distler",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://golem.ph.utexas.edu/~distler/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -4460,6 +4592,12 @@
         "status": "retrieved",
         "lastVerified": "2026-09-22",
         "relationshipSource": "https://neuroscience.utexas.edu/directory/lauren-dobbs"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://waggonercenter.utexas.edu/profiles/lauren-dobbs",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -4576,6 +4714,18 @@
         "url": "https://doi.org/10.1037/a0029148",
         "status": "linked_from_official_profile",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://www.brianpdon.com/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://cns.utexas.edu/news/announcements/meet-new-faculty-college-natural-sciences",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -4608,6 +4758,12 @@
         "url": "https://scholar.google.com/citations?user=EjxgmHIAAAAJ&hl=en",
         "status": "linked_from_official_profile",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://polychaetes.weebly.com/dorganlab_people.html",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -4634,6 +4790,12 @@
         "url": "https://physics.utexas.edu/directory/michael-downer",
         "status": "verified_section",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://sites.cns.utexas.edu/downer/ultrafast-laser-lab",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -4699,6 +4861,12 @@
         "url": "https://www.thedrewlab.org/publications",
         "status": "retrieved",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://news.utexas.edu/2019/04/01/how-the-brain-fights-off-fears-that-return-to-haunt-us/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -4758,6 +4926,12 @@
         "status": "retrieved",
         "lastVerified": "2026-09-22",
         "relationshipSource": "https://molecularbiosci.utexas.edu/directory/jaquelin-p-dudley"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://experts.utexas.edu/jaquelin_dudley",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -4798,6 +4972,12 @@
         "url": "https://neuroscience.utexas.edu/directory/joseph-dunsmoor",
         "status": "verified_section",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://sites.utexas.edu/dunsmoorlab/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -5024,6 +5204,12 @@
         "status": "retrieved",
         "lastVerified": "2026-09-22",
         "relationshipSource": "https://molecularbiosci.utexas.edu/directory/johann-k-eberhart"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://waggonercenter.utexas.edu/faculty-eberhart",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -5063,6 +5249,12 @@
         "status": "retrieved",
         "lastVerified": "2026-09-22",
         "relationshipSource": "https://molecularbiosci.utexas.edu/directory/lauren-i-r-ehrlich"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://experts.utexas.edu/lauren_ehrlich",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -5136,6 +5328,12 @@
         "status": "retrieved",
         "lastVerified": "2026-09-22",
         "relationshipSource": "https://molecularbiosci.utexas.edu/directory/andrew-ellington"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://ellingtonlab.org/home-page",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -5176,6 +5374,12 @@
         "url": "https://www.elstonlab.org/",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://www.elstonlab.org/research",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -5244,6 +5448,12 @@
         "url": "https://math.utexas.edu/directory/bjorn-engquist",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://oden.utexas.edu/people/directory/bjorn-Engquist/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -5270,6 +5480,12 @@
         "url": "https://marinescience.utexas.edu/directory/deana-erdner",
         "status": "verified_section",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://coastalscience.noaa.gov/news/programmed-cell-death-and-the-decline-of-harmful-algal-blooms/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -5386,6 +5602,12 @@
         "url": "https://doi.org/10.1016/j.socscimed.2020.113557",
         "status": "linked_from_official_profile",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://liberalarts.utexas.edu/prc/faculty/mpf434",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -5425,6 +5647,12 @@
         "url": "https://farriorlab.github.io/publications.html",
         "status": "retrieved",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://cns.utexas.edu/news/accolades/integrative-biology-professor-wins-early-career-award-contributions-ecology",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -5528,6 +5756,12 @@
         "status": "retrieved",
         "lastVerified": "2026-09-22",
         "relationshipSource": "https://neuroscience.utexas.edu/directory/lief-fenno"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://cns.utexas.edu/news/research/assistant-professor-lief-fenno-developing-new-tools-treat-addiction",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -5849,6 +6083,12 @@
         "status": "retrieved",
         "lastVerified": "2026-09-22",
         "relationshipSource": "https://hdfs.utexas.edu/directory/karen-fingerman"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://sites.utexas.edu/owl/our-team/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -5926,6 +6166,12 @@
         "url": "https://astronomy.utexas.edu/directory/keely-finkelstein",
         "status": "verified_section",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://experts.utexas.edu/keely_finkelstein",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -5952,6 +6198,12 @@
         "url": "https://astronomy.utexas.edu/directory/steven-finkelstein",
         "status": "verified_section",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://astronomy.utexas.edu/cosmic-frontier-center",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -5984,6 +6236,12 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Fischer+JA&cauthor_id=21763614",
         "status": "linked_from_official_profile",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "http://web.biosci.utexas.edu/fischer_lab/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -6024,6 +6282,12 @@
         "url": "https://physics.utexas.edu/directory/richard-fitzpatrick",
         "status": "verified_section",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://farside.ph.utexas.edu/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",

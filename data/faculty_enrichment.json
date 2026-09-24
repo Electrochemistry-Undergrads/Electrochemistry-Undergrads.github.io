@@ -2,7 +2,7 @@
   {
     "id": "scott-j-aaronson",
     "facultyId": "scott-j-aaronson",
-    "summary": "Research topics listed by UT include Quantum Information or Computing.",
+    "summary": "Studies what quantum computers can and cannot do, and computational complexity theory more broadly, including the theory behind quantum supremacy experiments and protocols for certified random numbers.",
     "researchAreas": [
       "Quantum Information or Computing"
     ],
@@ -76,7 +76,7 @@
   {
     "id": "junyeong-ahn",
     "facultyId": "junyeong-ahn",
-    "summary": "Research topics listed by UT include Materials Science, Quantum Information or Computing, Condensed Matter Physics.",
+    "summary": "Uses theory to explore quantum materials at the meeting point of condensed matter physics, quantum optics and quantum information, looking for new ways materials can conduct electricity or interact with light.",
     "researchAreas": [
       "Materials Science",
       "Quantum Information or Computing",
@@ -155,7 +155,7 @@
   {
     "id": "aditya-akella",
     "facultyId": "aditya-akella",
-    "summary": "Research topics listed by UT include Programming Languages or Systems.",
+    "summary": "Works to make cloud and Internet infrastructure faster, more reliable and more correct, bridging computer networking with operating systems, databases and formal methods; leads the UT Networked Systems group.",
     "researchAreas": [
       "Programming Languages or Systems"
     ],
@@ -227,7 +227,7 @@
   {
     "id": "francheska-catalina-alers-rojas",
     "facultyId": "francheska-catalina-alers-rojas",
-    "summary": "Research topics listed by UT include Human Development, Culture, Inequality or Resilience, Relationships, Families and Youth.",
+    "summary": "Studies what helps adolescents from minoritized backgrounds, especially Latinx youth, thrive, combining family, cultural and contextual factors with biological measures of stress such as cortisol and sleep.",
     "researchAreas": [
       "Human Development",
       "Culture, Inequality or Resilience",
@@ -322,7 +322,7 @@
   {
     "id": "jose-r-alvarado",
     "facultyId": "jose-r-alvarado",
-    "summary": "Research topics listed by UT include Biophysics or Structural Biology.",
+    "summary": "Studies the mechanical design principles of living systems by building physical model systems in the lab, including how actin filaments and motor proteins let cells hold their shape and exert forces.",
     "researchAreas": [
       "Biophysics or Structural Biology"
     ],
@@ -369,7 +369,7 @@
   {
     "id": "james-anthony-mendoza-alvarez",
     "facultyId": "james-anthony-mendoza-alvarez",
-    "summary": "Research topics listed by UT include STEM Education, Math Education and Policy.",
+    "summary": "Researches mathematics education, including problem solving, math-specific technology, teacher preparation and curriculum design, with the aim of widening access to mathematics and improving success in gateway courses.",
     "researchAreas": [
       "STEM Education",
       "Math Education and Policy"
@@ -403,7 +403,7 @@
   {
     "id": "antonios-alvertis",
     "facultyId": "antonios-alvertis",
-    "summary": "Research topics listed by UT include Quantum Information or Computing, Materials Science, Condensed Matter Physics.",
+    "summary": "Builds theoretical and computational methods, using supercomputers and quantum computers, to understand how electrons, atomic vibrations and light interact in quantum materials used in solar cells, superconductors and LEDs.",
     "researchAreas": [
       "Quantum Information or Computing",
       "Materials Science",
@@ -474,7 +474,7 @@
   {
     "id": "timothy-r-andeen-jr",
     "facultyId": "timothy-r-andeen-jr",
-    "summary": "Research topics listed by UT include Particle Physics.",
+    "summary": "Searches for new particles and interactions beyond the Standard Model using the ATLAS experiment at CERN's Large Hadron Collider, including studies of how the Higgs mechanism gives particles mass.",
     "researchAreas": [
       "Particle Physics"
     ],
@@ -548,7 +548,7 @@
   {
     "id": "eric-v-anslyn",
     "facultyId": "eric-v-anslyn",
-    "summary": "Research topics listed by UT include Materials Science, Analytical Chemistry, Chemical Biology.",
+    "summary": "Designs chemical sensors using physical organic and supramolecular chemistry, pioneering 'differential sensing' to analyze complex mixtures, and develops reversible chemical reactions for new materials and sequence-defined polymers.",
     "researchAreas": [
       "Materials Science",
       "Analytical Chemistry",
@@ -632,7 +632,7 @@
   {
     "id": "todd-j-arbogast",
     "facultyId": "todd-j-arbogast",
-    "summary": "Research topics listed by UT include Mathematics, Computational Medicine or Computational Science, Applied and Computational Mathematics.",
+    "summary": "Develops and analyzes numerical methods for solving partial differential equations, with applications such as modeling how fluids flow through porous rock underground.",
     "researchAreas": [
       "Mathematics",
       "Computational Medicine or Computational Science",
@@ -675,7 +675,7 @@
   {
     "id": "taft-e-armandroff",
     "facultyId": "taft-e-armandroff",
-    "summary": "Research topics listed by UT include Cosmology or Space, Dwarf Spheroidal Galaxies, Globular clusters.",
+    "summary": "Studies dwarf spheroidal galaxies, globular clusters and the stars that make up our galaxy and its neighbors, and works on astronomical instruments; directs McDonald Observatory.",
     "researchAreas": [
       "Cosmology or Space",
       "Dwarf Spheroidal Galaxies",
@@ -717,7 +717,7 @@
   {
     "id": "maria-mercedes-arredondo",
     "facultyId": "maria-mercedes-arredondo",
-    "summary": "Research topics listed by UT include Human Development, Culture, Inequality or Resilience, Behavior.",
+    "summary": "Studies how growing up bilingual shapes children's learning and attention, using a light-based brain imaging cap (fNIRS) to watch young children's brain activity as they listen to speech and solve tasks.",
     "researchAreas": [
       "Human Development",
       "Culture, Inequality or Resilience",
@@ -793,7 +793,7 @@
   {
     "id": "nigel-s-atkinson",
     "facultyId": "nigel-s-atkinson",
-    "summary": "Research topics listed by UT include Neuroscience, Health Promotion or Disease Prevention, Substance Use Disorders.",
+    "summary": "Uses fruit flies to uncover the genes and molecular mechanisms behind alcohol tolerance and dependence, including how ion channels and epigenetic changes in the nervous system adapt to alcohol.",
     "researchAreas": [
       "Neuroscience",
       "Health Promotion or Disease Prevention",
@@ -843,7 +843,7 @@
   {
     "id": "michael-aubrey",
     "facultyId": "michael-aubrey",
-    "summary": "Research topics listed by UT include Energy, Materials Science, Nanoscience and Nanotechnology.",
+    "summary": "Investigates the electrochemistry of solid materials, energy storage and mechanochemistry, designing new inorganic materials for batteries and other energy technologies.",
     "researchAreas": [
       "Energy",
       "Materials Science",
@@ -908,7 +908,7 @@
   {
     "id": "jennifer-austin",
     "facultyId": "jennifer-austin",
-    "summary": "The official UT profile includes a research overview. Explore the source for the scientific questions and approaches described by this faculty member.",
+    "summary": "Focuses on undergraduate mathematics education, inquiry-based learning and math outreach, with mathematical interests in geometry, topology and knot theory, including DNA topology and protein-DNA interactions.",
     "researchAreas": [],
     "areas": [],
     "methods": [
@@ -988,7 +988,7 @@
   {
     "id": "carlos-r-baiz",
     "facultyId": "carlos-r-baiz",
-    "summary": "Research topics listed by UT include Biophysics or Structural Biology, Nanoscience and Nanotechnology, Physical Chemistry.",
+    "summary": "Develops ultrafast two-dimensional infrared spectroscopy and computer simulations to study the molecular interactions behind protein folding, cell membranes and crowded biological environments.",
     "researchAreas": [
       "Biophysics or Structural Biology",
       "Nanoscience and Nanotechnology",
@@ -1048,7 +1048,7 @@
   {
     "id": "chandrajit-l-bajaj",
     "facultyId": "chandrajit-l-bajaj",
-    "summary": "Research topics listed by UT include AI for Health or Computational Science, Statistics, Big Data or Machine Learning, Cell & Molecular Biology.",
+    "summary": "Develops geometric, visualization and machine-learning methods for making sense of complex scientific and medical data, from imaging and molecular structures to decision-making problems in biology and healthcare.",
     "researchAreas": [
       "AI for Health or Computational Science",
       "Statistics, Big Data or Machine Learning",
@@ -1083,7 +1083,7 @@
   {
     "id": "brett-j-baker",
     "facultyId": "brett-j-baker",
-    "summary": "Research topics listed by UT include Molecular Biology or Genetics, Biodiversity, Ecology or Sustainability, Oceans and Freshwater.",
+    "summary": "Uses genomics to discover and study uncultured microbes, especially archaea in marine sediments, including Asgard archaea whose DNA sheds light on the origin of complex cells.",
     "researchAreas": [
       "Molecular Biology or Genetics",
       "Biodiversity, Ecology or Sustainability",
@@ -1158,7 +1158,7 @@
   {
     "id": "edoardo-baldini",
     "facultyId": "edoardo-baldini",
-    "summary": "Research topics listed by UT include Lasers, Materials Science, Quantum Information or Computing.",
+    "summary": "Uses ultrafast laser spectroscopy to discover new quantum phases of matter and to control material properties within trillionths of a second, aiming toward faster electronic and quantum devices.",
     "researchAreas": [
       "Lasers",
       "Materials Science",
@@ -1212,7 +1212,7 @@
   {
     "id": "jay-bartroff",
     "facultyId": "jay-bartroff",
-    "summary": "Research topics listed by UT include Sequential Analysis, Multiple Testing.",
+    "summary": "Develops statistical methods for sequential and streaming data and large-scale multiple testing, with biomedical uses such as clinical trial design and wearable alcohol biosensors.",
     "researchAreas": [
       "Sequential Analysis",
       "Multiple Testing"
@@ -1241,7 +1241,7 @@
   {
     "id": "ethel-bayer-santos",
     "facultyId": "ethel-bayer-santos",
-    "summary": "Research topics listed by UT include Infectious Disease, Immunology and Microbiology, Molecular Biology or Genetics, Biochemistry.",
+    "summary": "Studies the molecular weapons bacteria use to fight competitors, including the T6SS nano-weapon of Salmonella, to understand how pathogens overcome the gut microbiome to cause infection.",
     "researchAreas": [
       "Infectious Disease, Immunology and Microbiology",
       "Molecular Biology or Genetics",
@@ -1324,7 +1324,7 @@
   {
     "id": "josh-t-beckham",
     "facultyId": "josh-t-beckham",
-    "summary": "Research topics listed by UT include Infectious Disease, Immunology and Microbiology, Biochemistry, Molecular Biology or Genetics.",
+    "summary": "Leads the Freshman Research Initiative's Virtual Cures stream, where students use computational and molecular biology to search for drug candidates against infectious diseases; also works to improve molecular visualization in biology teaching.",
     "researchAreas": [
       "Infectious Disease, Immunology and Microbiology",
       "Biochemistry",
@@ -1374,7 +1374,7 @@
   {
     "id": "william-beckner",
     "facultyId": "william-beckner",
-    "summary": "Research topics listed by UT include Mathematics, Analysis.",
+    "summary": "Works in harmonic and Fourier analysis, studying geometric inequalities and how symmetry, smoothness and uncertainty describe the structure of geometric spaces, with links to mathematical physics and probability.",
     "researchAreas": [
       "Mathematics",
       "Analysis"
@@ -1405,7 +1405,7 @@
   {
     "id": "david-d-ben-zvi",
     "facultyId": "david-d-ben-zvi",
-    "summary": "Research topics listed by UT include Mathematics, Algebra, Geometry.",
+    "summary": "Works in geometric representation theory, reinterpreting central questions in algebra through ideas from quantum field theory, with connections to the Langlands program and derived algebraic geometry.",
     "researchAreas": [
       "Mathematics",
       "Algebra",
@@ -1461,7 +1461,7 @@
   {
     "id": "aprile-d-benner",
     "facultyId": "aprile-d-benner",
-    "summary": "Research topics listed by UT include Relationships, Families and Youth, Culture, Inequality or Resilience, Adolescence and Young Adulthood.",
+    "summary": "Studies how social contexts, discrimination and school transitions shape the development and health of adolescents from low-income and racial/ethnic minority backgrounds.",
     "researchAreas": [
       "Relationships, Families and Youth",
       "Culture, Inequality or Resilience",
@@ -1534,7 +1534,7 @@
   {
     "id": "danielle-amanda-berg",
     "facultyId": "danielle-amanda-berg",
-    "summary": "Research topics listed by UT include Cosmology or Space, Extragalactic, Interstellar Medium.",
+    "summary": "Studies how galaxies evolve by comparing nearby star-forming galaxies with the first galaxies in the early universe, using the light of their stars and gas to trace their chemistry.",
     "researchAreas": [
       "Cosmology or Space",
       "Extragalactic",
@@ -1638,7 +1638,7 @@
   {
     "id": "joydeep-biswas",
     "facultyId": "joydeep-biswas",
-    "summary": "Research topics listed by UT include Artificial Intelligence and/or Robotics, Technology & Aging.",
+    "summary": "Builds autonomous mobile robots that can perceive, plan and recover from failures while working reliably in real human environments, from campus-scale service robots to small high-speed racecars.",
     "researchAreas": [
       "Artificial Intelligence and/or Robotics",
       "Technology & Aging"
@@ -1668,7 +1668,7 @@
   {
     "id": "george-d-bittner",
     "facultyId": "george-d-bittner",
-    "summary": "Research topics listed by UT include Neuroscience, Molecular Biology, Genetics & Genomics, Behavior.",
+    "summary": "Studies how damaged nerve cells repair their membranes and regenerate, and has developed a technique using polyethylene glycol (PEG) to fuse severed nerves back together, now moving toward human clinical trials.",
     "researchAreas": [
       "Neuroscience",
       "Molecular Biology, Genetics & Genomics",
@@ -1782,7 +1782,7 @@
   {
     "id": "kimberly-boddy",
     "facultyId": "kimberly-boddy",
-    "summary": "Research topics listed by UT include Cosmology or Space, Particle Physics, Cosmology.",
+    "summary": "A theoretical physicist who investigates the nature of dark matter using cosmological observations such as the cosmic microwave background and galaxy populations, along with astrophysical systems and gravitational waves.",
     "researchAreas": [
       "Cosmology or Space",
       "Particle Physics",
@@ -1846,7 +1846,7 @@
   {
     "id": "carlos-botero",
     "facultyId": "carlos-botero",
-    "summary": "Research topics listed by UT include Evolution, Biodiversity, Ecology or Sustainability, Climate Change.",
+    "summary": "Studies how organisms adapt to variable and unpredictable environments, including the evolution of cognition and human cultural evolution, and helps predict how species will respond to climate change.",
     "researchAreas": [
       "Evolution",
       "Biodiversity, Ecology or Sustainability",
@@ -1913,7 +1913,7 @@
   {
     "id": "lewis-p-bowen",
     "facultyId": "lewis-p-bowen",
-    "summary": "Research topics listed by UT include Mathematics, Dynamical Systems.",
+    "summary": "Works in ergodic theory, probability and dynamical systems, especially the long-term behavior of systems acted on by complex groups and connections to geometric group theory.",
     "researchAreas": [
       "Mathematics",
       "Dynamical Systems"
@@ -1966,7 +1966,7 @@
   {
     "id": "simon-j-brandl",
     "facultyId": "simon-j-brandl",
-    "summary": "Research topics listed by UT include Oceans and Freshwater, Biodiversity, Coastal Ecosystem Processes.",
+    "summary": "A fish ecologist studying tiny bottom-dwelling 'cryptobenthic' reef fishes such as gobies and blennies, and the roles they play in the health and food webs of coral and oyster reefs.",
     "researchAreas": [
       "Oceans and Freshwater",
       "Biodiversity",
@@ -2001,7 +2001,7 @@
   {
     "id": "molly-s-bray",
     "facultyId": "molly-s-bray",
-    "summary": "Research topics listed by UT include Nutrition or Obesity, Molecular Biology or Genetics, Molecular Nutrition and Metabolism.",
+    "summary": "Studies the genetics of obesity and energy balance and how exercise, nutrition and daily circadian rhythms interact; leads the TIGER study, one of the largest genetic studies of exercise response.",
     "researchAreas": [
       "Nutrition or Obesity",
       "Molecular Biology or Genetics",
@@ -2086,7 +2086,7 @@
   {
     "id": "jennifer-s-brodbelt",
     "facultyId": "jennifer-s-brodbelt",
-    "summary": "Research topics listed by UT include Materials Science, Biophysics or Structural Biology, Analytical Chemistry.",
+    "summary": "Develops new mass spectrometry methods, including new ways of breaking apart ions, to determine the detailed structures of proteins and other biological molecules.",
     "researchAreas": [
       "Materials Science",
       "Biophysics or Structural Biology",
@@ -2130,7 +2130,7 @@
   {
     "id": "volker-bromm",
     "facultyId": "volker-bromm",
-    "summary": "Research topics listed by UT include Cosmology or Space, Extragalactic, Astronomy-Astrophysics Theory.",
+    "summary": "Uses supercomputer simulations to study how the first stars, galaxies and supermassive black holes formed during the universe's first billion years, making predictions for next-generation telescopes.",
     "researchAreas": [
       "Cosmology or Space",
       "Extragalactic",
@@ -2204,7 +2204,7 @@
   {
     "id": "karen-s-browning",
     "facultyId": "karen-s-browning",
-    "summary": "Research topics listed by UT include Molecular Biology or Genetics, Molecular Biology, Genetics & Genomics, Plant Biology.",
+    "summary": "Studies how plants begin making proteins, including how initiation factors select messenger RNAs and load them onto ribosomes, and why plants carry two forms of the key factor eIF4F.",
     "researchAreas": [
       "Molecular Biology or Genetics",
       "Molecular Biology, Genetics & Genomics",
@@ -2271,7 +2271,7 @@
   {
     "id": "amy-e-bryan",
     "facultyId": "amy-e-bryan",
-    "summary": "Research topics listed by UT include Child and Adolescent Health, Contexts of Human Development, Infancy and Childhood.",
+    "summary": "Studies early childhood development, education and mental health, especially strengthening caregiver-child relationships, and directs research at UT's Priscilla Pond Flawn Child and Family Laboratory.",
     "researchAreas": [
       "Child and Adolescent Health",
       "Contexts of Human Development",
@@ -2350,7 +2350,7 @@
   {
     "id": "joshua-w-burby",
     "facultyId": "joshua-w-burby",
-    "summary": "The official UT profile includes a research overview. Explore the source for the scientific questions and approaches described by this faculty member.",
+    "summary": "A mathematical plasma physicist who uses geometry and dynamical systems theory to answer foundational questions about stellarator fusion reactors, including faster ways to design leak-proof magnetic confinement.",
     "researchAreas": [],
     "areas": [],
     "methods": [],
@@ -2382,7 +2382,7 @@
   {
     "id": "marissa-burgermaster",
     "facultyId": "marissa-burgermaster",
-    "summary": "Research topics listed by UT include Nutrition or Obesity, Statistics, Big Data or Machine Learning, Clinical and Translational Nutrition.",
+    "summary": "Uses data science and human-computer interaction to personalize nutrition interventions that prevent and manage chronic disease, especially for communities that new health technologies often overlook.",
     "researchAreas": [
       "Nutrition or Obesity",
       "Statistics, Big Data or Machine Learning",
@@ -2445,7 +2445,7 @@
   {
     "id": "ashay-burungale",
     "facultyId": "ashay-burungale",
-    "summary": "Research topics listed by UT include Mathematics, Number Theory, Algebra.",
+    "summary": "Works in number theory and automorphic forms, especially the arithmetic of elliptic curves and the Birch and Swinnerton-Dyer conjecture, one of mathematics' major open problems.",
     "researchAreas": [
       "Mathematics",
       "Number Theory",
@@ -2478,7 +2478,7 @@
   {
     "id": "edward-j-buskey",
     "facultyId": "edward-j-buskey",
-    "summary": "Research topics listed by UT include Oceans and Freshwater, Plankton Biology, Coastal Ecosystem Processes.",
+    "summary": "Studies how tiny marine zooplankton sense their surroundings to find food, avoid predators and find mates, along with bioluminescence, harmful algal blooms and the effects of oil spills on plankton.",
     "researchAreas": [
       "Oceans and Freshwater",
       "Plankton Biology",
@@ -2583,7 +2583,7 @@
   {
     "id": "rene-o-cabrera",
     "facultyId": "rene-o-cabrera",
-    "summary": "Research topics listed by UT include Analysis.",
+    "summary": "Researches optimal transport and partial differential equations, including transport problems where moving particles interact, and teaches mathematics with a focus on calculus for engineers.",
     "researchAreas": [
       "Analysis"
     ],
@@ -2610,7 +2610,7 @@
   {
     "id": "elena-caceres",
     "facultyId": "elena-caceres",
-    "summary": "Research topics listed by UT include Quantum Information or Computing.",
+    "summary": "A theoretical physicist working on string theory and quantum gravity, particularly holography (the AdS/CFT duality) and quantum entanglement in gravitational systems.",
     "researchAreas": [
       "Quantum Information or Computing"
     ],
@@ -2649,7 +2649,7 @@
   {
     "id": "luis-a-caffarelli",
     "facultyId": "luis-a-caffarelli",
-    "summary": "Research topics listed by UT include Mathematics.",
+    "summary": "A leading expert on nonlinear partial differential equations and free-boundary problems, such as melting ice and flow through porous media, with influential work on fluid equations; winner of the 2023 Abel Prize.",
     "researchAreas": [
       "Mathematics"
     ],
@@ -2678,7 +2678,7 @@
   {
     "id": "catherine-calder",
     "facultyId": "catherine-calder",
-    "summary": "Research topics listed by UT include Statistics, Big Data or Machine Learning, Health Promotion or Disease Prevention, Spatial and Spatio-Temporal Statistics.",
+    "summary": "Develops statistical methods for complex structured data, including Bayesian, spatial and network models, and applies them to questions about mobility, crime, policing and the health and well-being of youth.",
     "researchAreas": [
       "Statistics, Big Data or Machine Learning",
       "Health Promotion or Disease Prevention",
@@ -2726,7 +2726,7 @@
   {
     "id": "cassandra-e-callmann",
     "facultyId": "cassandra-e-callmann",
-    "summary": "Research topics listed by UT include Materials Science, Nanoscience and Nanotechnology, Chemical Biology.",
+    "summary": "Designs synthetic carbohydrate-based polymers to understand and control biological processes, aiming to create new biomaterials for medicine, including cancer research.",
     "researchAreas": [
       "Materials Science",
       "Nanoscience and Nanotechnology",
@@ -2787,7 +2787,7 @@
   {
     "id": "xiaolu-cambronne",
     "facultyId": "xiaolu-cambronne",
-    "summary": "Research topics listed by UT include Biochemistry, Cell and Molecular Biology, Cellular/Molecular/Structure.",
+    "summary": "Studies how cells route metabolites such as NAD+ to different compartments, where they control DNA packaging in the nucleus or energy production in mitochondria, using fluorescent biosensors the lab develops.",
     "researchAreas": [
       "Biochemistry",
       "Cell and Molecular Biology",
@@ -2837,7 +2837,7 @@
   {
     "id": "david-cannatella",
     "facultyId": "david-cannatella",
-    "summary": "Research topics listed by UT include Biodiversity, Ecology or Sustainability, Evolution, Evolutionary Biology.",
+    "summary": "Studies the evolution, classification and biodiversity of amphibians, especially frogs, combining DNA-based family trees, anatomy, frog calls and field work, including research on Neotropical poison frogs.",
     "researchAreas": [
       "Biodiversity, Ecology or Sustainability",
       "Evolution",
@@ -2886,7 +2886,7 @@
   {
     "id": "kurtis-mickel-carsch",
     "facultyId": "kurtis-mickel-carsch",
-    "summary": "Research topics listed by UT include Inorganic Chemistry, Materials.",
+    "summary": "Designs metal complexes and porous materials in which metal atoms have unusual electronic structures, to discover new chemical reactions and improve catalysis and chemical separations.",
     "researchAreas": [
       "Inorganic Chemistry",
       "Materials"
@@ -2922,7 +2922,7 @@
   {
     "id": "jordan-casey",
     "facultyId": "jordan-casey",
-    "summary": "Research topics listed by UT include Oceans and Freshwater, Biodiversity, Ecology or Sustainability, Biodiversity.",
+    "summary": "A marine ecologist who uses DNA metabarcoding to map who eats whom on coral reefs and how resilient those food webs are to global change, with new projects in the Texas Coastal Bend.",
     "researchAreas": [
       "Oceans and Freshwater",
       "Biodiversity, Ecology or Sustainability",
@@ -2980,7 +2980,7 @@
   {
     "id": "can-cenik",
     "facultyId": "can-cenik",
-    "summary": "Research topics listed by UT include AI for Health or Computational Science, Molecular Biology or Genetics, Statistics, Big Data or Machine Learning.",
+    "summary": "Studies how cells decide how much of each protein to make from their RNAs, pairing new lab methods for measuring translation with deep-learning models that predict protein output from gene sequence.",
     "researchAreas": [
       "AI for Health or Computational Science",
       "Molecular Biology or Genetics",

@@ -14,6 +14,12 @@
         "url": "https://www.cs.utexas.edu/people/faculty-researchers/scott-aaronson",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://www.cs.utexas.edu/news/2025/scott-aaronsons-protocol-powers-quantum-breakthrough-certified-randomness",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -80,6 +86,12 @@
         "url": "https://physics.utexas.edu/directory/junyeong-ahn",
         "status": "verified_section",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://www.quahntum.com/research",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -258,6 +270,12 @@
         "url": "https://doi.org/10.2196/mhealth.4620",
         "status": "linked_from_official_profile",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://scholar.google.com/citations?user=8csZnckAAAAJ&hl=en",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -312,6 +330,12 @@
         "url": "https://physics.utexas.edu/directory/jose-alvarado",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://chaos.utexas.edu/people/faculty/dr-jose-alvarado",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -332,6 +356,12 @@
         "url": "https://math.utexas.edu/directory/james-a-m-alvarez",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://maa.org/math-values/dr-james-a-m-lvarez/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -358,6 +388,12 @@
         "url": "https://physics.utexas.edu/directory/antonios-alvertis",
         "status": "verified_section",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://amalvertis.github.io/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -405,6 +441,12 @@
         "url": "https://physics.utexas.edu/directory/timothy-andeen",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://wikis.utexas.edu/display/utatlas/Home+-+Andeen",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -472,6 +514,12 @@
         "url": "https://anslyn.cm.utexas.edu/AnslynWebsite/publications.html",
         "status": "retrieved",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://anslyn.cm.utexas.edu/AnslynWebsite/research.html",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -524,6 +572,12 @@
         "url": "http://www.oden.utexas.edu/~arbogast/PaperArchive/paperIndex.html",
         "status": "linked_from_official_profile",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://users.oden.utexas.edu/~arbogast/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -619,6 +673,12 @@
         "status": "retrieved",
         "lastVerified": "2026-09-22",
         "relationshipSource": "https://hdfs.utexas.edu/directory/maria-arredondo"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://cns.utexas.edu/news/features/shining-light-how-bilingual-children-learn",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -659,6 +719,12 @@
         "url": "https://neuroscience.utexas.edu/directory/nigel-atkinson",
         "status": "verified_section",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://sites.cns.utexas.edu/neurodrosophilab/people/nigel-s-atkinson",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -822,6 +888,12 @@
         "url": "https://chemistry.utexas.edu/directory/carlos-baiz",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://baizgroup.org/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -842,6 +914,12 @@
         "url": "https://www.cs.utexas.edu/people/faculty-researchers/chandrajit-bajaj",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://oden.utexas.edu/people/directory/Chandrajit-bajaj/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -947,6 +1025,12 @@
         "url": "https://sites.utexas.edu/baker-lab/2025/01/03/two-papers-on-a-20-year-study-of-a-freshwater-lake-out-today/",
         "status": "retrieved",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://sites.utexas.edu/baker-lab/research-overview/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -1056,6 +1140,12 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/32579939/",
         "status": "linked_from_official_profile",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://bayersantoslab.com/people/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -1108,6 +1198,18 @@
         "url": "https://scholar.google.com/citations?hl=en&user=1cPTGz0AAAAJ&view_op=list_works",
         "status": "linked_from_official_profile",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://fri.cns.utexas.edu/directory/josh-beckham",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://fri.cns.utexas.edu/research-streams/virtual-cures",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -1134,6 +1236,12 @@
         "url": "https://math.utexas.edu/directory/william-beckner",
         "status": "verified_section",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://users.oden.utexas.edu/~beckner/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -1154,6 +1262,12 @@
         "url": "https://math.utexas.edu/directory/david-ben-zvi",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://web.ma.utexas.edu/users/benzvi/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -1207,6 +1321,12 @@
         "status": "retrieved",
         "lastVerified": "2026-09-22",
         "relationshipSource": "https://hdfs.utexas.edu/directory/aprile-benner"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://sites.utexas.edu/projectlibra/dr-aprile-benner/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -1315,6 +1435,12 @@
         "url": "https://www.cs.utexas.edu/people/faculty-researchers/joydeep-biswas",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://www.cs.utexas.edu/news/2020/joydeep-biswas-builds-robots-navigate-real-world",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -1804,6 +1930,12 @@
         "status": "retrieved",
         "lastVerified": "2026-09-22",
         "relationshipSource": "https://neuroscience.utexas.edu/directory/george-bittner"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://sites.utexas.edu/bittnerlab/files/2024/10/Bittner-CV-September-2024.pdf",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -1902,6 +2034,12 @@
         "url": "https://orcid.org/0000-0003-1928-4667",
         "status": "linked_from_official_profile",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://sites.cns.utexas.edu/kboddy/home",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -2022,6 +2160,12 @@
         "status": "retrieved",
         "lastVerified": "2026-09-22",
         "relationshipSource": "https://marinescience.utexas.edu/directory/simon-brandl"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "http://brandllab.com/people",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -2194,6 +2338,12 @@
         "url": "https://browning.cm.utexas.edu/browning/Recent%20Publications",
         "status": "retrieval_failed",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://browning.cm.utexas.edu/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -2355,6 +2505,12 @@
         "url": "https://physics.utexas.edu/directory/joshua-burby",
         "status": "verified_section",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -2382,6 +2538,12 @@
         "status": "retrieved",
         "lastVerified": "2026-09-22",
         "relationshipSource": "https://nutrition.utexas.edu/directory/marissa-burgermaster"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://sites.utexas.edu/burgermasterlab/team/marissa-burgermaster-phd/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -2548,6 +2710,12 @@
         "url": "https://physics.utexas.edu/directory/elena-caceres",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://zippy.ph.utexas.edu/~elenac/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -2580,6 +2748,12 @@
         "url": "http://www.ma.utexas.edu/users/caffarel/pubs.html",
         "status": "linked_from_official_profile",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://news.utexas.edu/2023/03/22/mathematics-highest-prize-awarded-to-luis-caffarelli/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -2600,6 +2774,12 @@
         "url": "https://stat.utexas.edu/directory/catherine-kate-calder",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://cacalder.com/about/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -2620,6 +2800,12 @@
         "url": "https://chemistry.utexas.edu/directory/cassandra-callmann",
         "status": "verified",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://www.callmanngroup.com/cassandra-callmann",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -2744,6 +2930,12 @@
         "url": "https://scholar.google.com/citations?user=CNI-XjIAAAAJ&hl=en",
         "status": "linked_from_official_profile",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://microporo.us/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -2789,6 +2981,12 @@
         "url": "https://caseylab.weebly.com/publications.html",
         "status": "retrieved",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://global.utexas.edu/news/ut-austin-collaborates-french-and-finnish-researchers-study-coral-reefs-around-world",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
@@ -2872,6 +3070,12 @@
         "url": "https://ceniklab.github.io/",
         "status": "retrieved",
         "lastVerified": "2026-09-22"
+      },
+      {
+        "type": "research_summary_source",
+        "url": "https://oden.utexas.edu/people/directory/Can-Cenik/",
+        "status": "cited",
+        "lastVerified": "2026-09-24"
       }
     ],
     "sourceUrl": "https://catalog.utexas.edu/undergraduate/colleges-schools/natural-sciences/faculty/",
